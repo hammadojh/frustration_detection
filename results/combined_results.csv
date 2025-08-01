@@ -1,0 +1,9 @@
+experiment_name,features_used,f1_score,precision,recall,accuracy,num_features,notes
+roberta_baseline,roberta_only,0.8266666666666665,0.8157894736842105,0.8378378378378378,0.8266666666666667,768,RoBERTa embeddings only
+roberta+linguistic_bundle,linguistic_bundle,0.8378378378378378,0.8378378378378378,0.8378378378378378,0.84,776,RoBERTa + 1 feature bundles
+roberta+dialogue_bundle,"linguistic_bundle,dialogue_bundle",0.8157894736842105,0.7948717948717948,0.8378378378378378,0.8133333333333334,780,RoBERTa + 2 feature bundles
+roberta+behavioral_bundle,"linguistic_bundle,behavioral_bundle",0.8266666666666665,0.8157894736842105,0.8378378378378378,0.8266666666666667,778,RoBERTa + 2 feature bundles
+roberta+contextual_bundle,"linguistic_bundle,contextual_bundle",0.8378378378378378,0.8378378378378378,0.8378378378378378,0.84,779,RoBERTa + 2 feature bundles
+roberta+emotion_dynamics_bundle,"linguistic_bundle,emotion_dynamics_bundle",0.8378378378378378,0.8378378378378378,0.8378378378378378,0.84,778,RoBERTa + 2 feature bundles
+roberta+system_bundle,"linguistic_bundle,system_bundle",0.8378378378378378,0.8378378378378378,0.8378378378378378,0.84,778,RoBERTa + 2 feature bundles
+roberta+user_model_bundle,"linguistic_bundle,user_model_bundle",0.8378378378378378,0.8378378378378378,0.8378378378378378,0.84,777,RoBERTa + 2 feature bundles

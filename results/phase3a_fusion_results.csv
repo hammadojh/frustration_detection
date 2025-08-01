@@ -1,0 +1,5 @@
+strategy,f1_score,precision,recall,accuracy,improvement_vs_phase2,notes
+late_fusion_concat,0.8378,0.8378,0.8378,0.8400,+0.0000,Baseline concatenation approach
+early_fusion_tokens,0.8571,0.8250,0.8919,0.8533,+0.0193,Features as special tokens - BEST
+weighted_fusion,0.8378,0.8378,0.8378,0.8400,+0.0000,Optimal weighting alpha=0.9
+feature_selection_fusion,0.8378,0.8378,0.8378,0.8400,+0.0000,SelectKBest with k=3 features

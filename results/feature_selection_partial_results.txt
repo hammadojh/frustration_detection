@@ -1,0 +1,21 @@
+Phase 3b: Feature Selection - Partial Results
+
+Baseline (all 22 features): F1 = 0.8831
+
+MUTUAL INFORMATION SELECTION:
+✅ MI_top_3: F1 = 0.8312 (Δ=-0.0519) | 3 features
+✅ MI_top_5: F1 = 0.8571 (Δ=-0.0260) | 5 features  
+🔄 MI_top_8: [IN PROGRESS - timed out]
+
+KEY FINDINGS:
+1. Only 12 out of 22 features are non-constant (informative)
+2. Top 3 MI features achieve F1=0.8312 (94% of full performance with 14% of features)
+3. Top 5 MI features achieve F1=0.8571 (97% of full performance with 23% of features)
+4. Significant feature reduction possible with minimal performance loss
+
+EFFICIENCY ANALYSIS:
+- MI_top_3: 0.8312/3 = 0.2771 F1/feature (highly efficient)
+- MI_top_5: 0.8571/5 = 0.1714 F1/feature (very efficient)  
+- All features: 0.8831/22 = 0.0401 F1/feature (baseline)
+
+This suggests we can achieve near-optimal performance with just 5 carefully selected features!

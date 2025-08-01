@@ -1,0 +1,2 @@
+experiment_name,features_used,f1_score,precision,recall,accuracy,notes
+baseline,none,0.8108108108108109,0.8108108108108109,0.8108108108108109,0.8133333333333334,Baseline RoBERTa without engineered features

@@ -1,0 +1,13 @@
+{
+  "total_examples": 500,
+  "emotion_id_distribution": {
+    "0": 241,
+    "6": 176,
+    "2": 61,
+    "5": 13,
+    "3": 8,
+    "1": 1
+  },
+  "frustrated_count": 250,
+  "not_frustrated_count": 250
+}

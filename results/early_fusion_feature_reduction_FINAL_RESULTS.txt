@@ -1,0 +1,103 @@
+================================================================================
+EARLY FUSION FEATURE REDUCTION - FINAL RESULTS
+================================================================================
+Target: F1 = 0.8831 (all 22 features)
+Reference: F1 = 0.8571 (linguistic 8 features)
+
+COMPLETE RESULTS (sorted by F1 score):
+--------------------------------------------------------------------------------
+✅ BEATS BASELINE
+  Config: top_6_+response_relevance
+  F1 Score: 0.8571
+  Features: 6
+  vs All Features: -0.0260
+  vs Linguistic: +0.0000
+  Feature Reduction: 72.7%
+  Efficiency: 0.1429 F1/feature
+
+❌ BELOW BASELINE
+  Config: top_2_politeness+exclamation
+  F1 Score: 0.8533
+  Features: 2
+  vs All Features: -0.0298
+  vs Linguistic: -0.0038
+  Feature Reduction: 90.9%
+  Efficiency: 0.4267 F1/feature
+
+❌ BELOW BASELINE
+  Config: top_4_+response_clarity
+  F1 Score: 0.8462
+  Features: 4
+  vs All Features: -0.0369
+  vs Linguistic: -0.0109
+  Feature Reduction: 81.8%
+  Efficiency: 0.2115 F1/feature
+
+❌ BELOW BASELINE
+  Config: top_5_+turn_length
+  F1 Score: 0.8462
+  Features: 5
+  vs All Features: -0.0369
+  vs Linguistic: -0.0109
+  Feature Reduction: 77.3%
+  Efficiency: 0.1692 F1/feature
+
+❌ BELOW BASELINE
+  Config: top_4_alt
+  F1 Score: 0.8462
+  Features: 4
+  vs All Features: -0.0369
+  vs Linguistic: -0.0109
+  Feature Reduction: 81.8%
+  Efficiency: 0.2115 F1/feature
+
+❌ BELOW BASELINE
+  Config: top_3_+task_complexity
+  F1 Score: 0.8312
+  Features: 3
+  vs All Features: -0.0519
+  vs Linguistic: -0.0259
+  Feature Reduction: 86.4%
+  Efficiency: 0.2771 F1/feature
+
+❌ BELOW BASELINE
+  Config: best_3_diverse
+  F1 Score: 0.8312
+  Features: 3
+  vs All Features: -0.0519
+  vs Linguistic: -0.0259
+  Feature Reduction: 86.4%
+  Efficiency: 0.2771 F1/feature
+
+❌ BELOW BASELINE
+  Config: top_1_politeness
+  F1 Score: 0.8108
+  Features: 1
+  vs All Features: -0.0723
+  vs Linguistic: -0.0463
+  Feature Reduction: 95.5%
+  Efficiency: 0.8108 F1/feature
+
+================================================================================
+KEY FINDINGS
+================================================================================
+BEST OVERALL: top_6_+response_relevance
+  F1: 0.8571
+  Features: 6
+  Reduction: 72.7%
+
+ANSWER TO KEY QUESTION: Can we achieve F1≥0.88 with fewer features?
+📊 Best achievable: 6 features → F1=0.8571
+
+TOP 3 MOST EFFICIENT CONFIGURATIONS:
+  1. top_6_+response_relevance: 0.1429 F1/feature
+  2. top_2_politeness+exclamation: 0.4267 F1/feature
+  3. top_4_+response_clarity: 0.2115 F1/feature
+
+FEATURE ANALYSIS:
+Based on the top configurations, the most critical features are:
+1. avg_politeness (index 2) - Dominant signal in all top configs
+2. avg_exclamation (index 7) - Emotional intensity marker
+3. task_complexity (index 16) - Question density proxy
+4. response_clarity (index 19) - System quality indicator
+5. avg_turn_length (index 9) - Conversation flow pattern

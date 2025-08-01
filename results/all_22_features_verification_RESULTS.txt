@@ -1,0 +1,56 @@
+================================================================================
+ALL 22 FEATURES EARLY FUSION - VERIFICATION RESULTS
+================================================================================
+Verification completed with 3 independent runs
+Total experiment time: 2.5 minutes
+
+DETAILED RESULTS BY RUN:
+--------------------------------------------------------------------------------
+
+RUN 1:
+  Test F1: 0.8831
+  Test Precision: 0.8500
+  Test Recall: 0.9189
+  Test Accuracy: 0.8800
+  Train F1: 0.9494
+  Features Used: 22
+  Runtime: 0.9 minutes
+
+RUN 2:
+  Test F1: 0.8831
+  Test Precision: 0.8500
+  Test Recall: 0.9189
+  Test Accuracy: 0.8800
+  Train F1: 0.9494
+  Features Used: 22
+  Runtime: 0.8 minutes
+
+RUN 3:
+  Test F1: 0.8831
+  Test Precision: 0.8500
+  Test Recall: 0.9189
+  Test Accuracy: 0.8800
+  Train F1: 0.9494
+  Features Used: 22
+  Runtime: 0.8 minutes
+
+================================================================================
+STATISTICAL SUMMARY
+================================================================================
+Test F1 Statistics (3 runs):
+  Mean: 0.8831
+  Std Dev: 0.0000
+  Min: 0.8831
+  Max: 0.8831
+  Range: 0.0000
+
+COMPARISON TO PREVIOUS RESULT:
+  Previous Reported: F1 = 0.8831
+  Current Verified:  F1 = 0.8831 ± 0.0000
+  Absolute Difference: 0.0000
+  Relative Difference: +0.00%
+  Verification Status: ✅ CONFIRMED
+
+CONCLUSION:
+✅ The previous result of F1=0.8831 is CONFIRMED.
+   The systematic feature selection comparison is valid.

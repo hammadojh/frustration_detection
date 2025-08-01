@@ -1,0 +1,2502 @@
+[
+  {
+    "text": "I would like it booked and need the reference number.",
+    "label": 0,
+    "emotion_id": 0
+  },
+  {
+    "text": "You have helped with what I needed, thank you, goodbye!",
+    "label": 1,
+    "emotion_id": 6
+  },
+  {
+    "text": "Yes, The phone number",
+    "label": 1,
+    "emotion_id": 2
+  },
+  {
+    "text": "Yes, for one on Thursday, 16:15",
+    "label": 0,
+    "emotion_id": 0
+  },
+  {
+    "text": "A museum sounds fun can I have the phone number and postcode for the one you recommend? ",
+    "label": 0,
+    "emotion_id": 0
+  },
+  {
+    "text": "Can I have the address, phone number, and entrance fee of Nusha.",
+    "label": 0,
+    "emotion_id": 0
+  },
+  {
+    "text": "No, that will be all, t hank you.",
+    "label": 1,
+    "emotion_id": 6
+  },
+  {
+    "text": "I need rooms for 5 people and 2 nights starting on Thursday. If you could make a reservation that would be great.",
+    "label": 0,
+    "emotion_id": 0
+  },
+  {
+    "text": "Thank you so much, have a wonderful day.",
+    "label": 1,
+    "emotion_id": 6
+  },
+  {
+    "text": "that will be it for today and thanks for your help",
+    "label": 1,
+    "emotion_id": 6
+  },
+  {
+    "text": "Perfect. Thank you for your help today.",
+    "label": 1,
+    "emotion_id": 6
+  },
+  {
+    "text": "Yes, what is the address and phone number?",
+    "label": 0,
+    "emotion_id": 0
+  },
+  {
+    "text": "Yes, please.  I need to book the train for 8 people.",
+    "label": 0,
+    "emotion_id": 0
+  },
+  {
+    "text": "Can you recommend an Italian restaurant in the centre as well?",
+    "label": 0,
+    "emotion_id": 0
+  },
+  {
+    "text": "no, thank you ",
+    "label": 1,
+    "emotion_id": 6
+  },
+  {
+    "text": "awesome. thanks for your help today",
+    "label": 1,
+    "emotion_id": 6
+  },
+  {
+    "text": "No thank you that will be all",
+    "label": 0,
+    "emotion_id": 0
+  },
+  {
+    "text": "You can just end the convo. It's an option. You don't have to keep going read the directions. Makes it hard for other workers",
+    "label": 1,
+    "emotion_id": 2
+  },
+  {
+    "text": "Please book for 5 people at 13:15 on sunday",
+    "label": 1,
+    "emotion_id": 2
+  },
+  {
+    "text": "No, thank you!",
+    "label": 1,
+    "emotion_id": 6
+  },
+  {
+    "text": "I would like to stay in the expensive price range.",
+    "label": 0,
+    "emotion_id": 0
+  },
+  {
+    "text": "I'm looking for an expensive place to stay in the west with free wifi",
+    "label": 0,
+    "emotion_id": 0
+  },
+  {
+    "text": "I'd prefer a hotel, are there any 3 star hotels in the East section of town that have free parking?",
+    "label": 0,
+    "emotion_id": 0
+  },
+  {
+    "text": "I am traveling from Ely. The train should arrive by 19:00 and I would like to leave on Friday. ",
+    "label": 0,
+    "emotion_id": 0
+  },
+  {
+    "text": "Thank you and good bye.",
+    "label": 1,
+    "emotion_id": 6
+  },
+  {
+    "text": "Thanks for all of your help.",
+    "label": 1,
+    "emotion_id": 6
+  },
+  {
+    "text": "Thank you, that is all.",
+    "label": 1,
+    "emotion_id": 6
+  },
+  {
+    "text": "No, I've got everything I need. I appreciate your help.",
+    "label": 1,
+    "emotion_id": 6
+  },
+  {
+    "text": "book for 8 people on sunday for 5 nights",
+    "label": 1,
+    "emotion_id": 2
+  },
+  {
+    "text": "Please book a table for the same group of people at 21:00 on the same day.",
+    "label": 0,
+    "emotion_id": 0
+  },
+  {
+    "text": "No particular pricerange, but I want it to be a type of hotel. It doesn't need to include internet. ",
+    "label": 0,
+    "emotion_id": 0
+  },
+  {
+    "text": "No, that would be all.",
+    "label": 0,
+    "emotion_id": 0
+  },
+  {
+    "text": "Does that have free wifi?",
+    "label": 0,
+    "emotion_id": 0
+  },
+  {
+    "text": "From kings lynn at 8:30",
+    "label": 0,
+    "emotion_id": 0
+  },
+  {
+    "text": "Okay great. That was all I needed.",
+    "label": 1,
+    "emotion_id": 6
+  },
+  {
+    "text": "Thank you. That is all that I need.",
+    "label": 1,
+    "emotion_id": 6
+  },
+  {
+    "text": "Please share with me the list of the Centrally located local restaurants?",
+    "label": 1,
+    "emotion_id": 2
+  },
+  {
+    "text": "Once you find the hotel you want to book it for 6 people on tuesday for 4 nights.",
+    "label": 0,
+    "emotion_id": 0
+  },
+  {
+    "text": "How about a train that will arrive by 12:15 heading to london liverpool street?",
+    "label": 0,
+    "emotion_id": 0
+  },
+  {
+    "text": "I am looking for a north indian food restaurant in the town centre. ",
+    "label": 0,
+    "emotion_id": 0
+  },
+  {
+    "text": "I don't have a preference of price but I'd like for it to be a guesthouse in the north. ",
+    "label": 0,
+    "emotion_id": 0
+  },
+  {
+    "text": "Please find a restaurant that serves Latin American food.",
+    "label": 0,
+    "emotion_id": 0
+  },
+  {
+    "text": "Yes, can you please reserve me a table for 1 person for Friday at 11:30?",
+    "label": 0,
+    "emotion_id": 0
+  },
+  {
+    "text": "No that will be all thank you so much for your assistance. ",
+    "label": 1,
+    "emotion_id": 6
+  },
+  {
+    "text": "Can you help me find a hotel to stay in that includes free wifi and has a 4 star rating? Thanks!",
+    "label": 1,
+    "emotion_id": 5
+  },
+  {
+    "text": "I'll give the Cocum a try. Please book a table for 6 for 12:45 on Thursday.",
+    "label": 1,
+    "emotion_id": 6
+  },
+  {
+    "text": "thursday",
+    "label": 1,
+    "emotion_id": 2
+  },
+  {
+    "text": "I'd like to be in the centre of town.  Surprise me with the type!  I need to book for 8 people on Wednesday 16:00.  Reference number please?",
+    "label": 1,
+    "emotion_id": 5
+  },
+  {
+    "text": "Yes, that is great. Just to verify, the travel time is 50 minutes?",
+    "label": 1,
+    "emotion_id": 6
+  },
+  {
+    "text": "I changed my mind can you book that for me please?",
+    "label": 0,
+    "emotion_id": 3
+  },
+  {
+    "text": "May I have the phone number for them?",
+    "label": 0,
+    "emotion_id": 0
+  },
+  {
+    "text": "Wow, you are snippy for an Info centre! Perhaps a museum.",
+    "label": 1,
+    "emotion_id": 2
+  },
+  {
+    "text": "First, may I have the address for the rajmahal restaurant? Then, I want to get from the hotel to the restaurant, please.",
+    "label": 0,
+    "emotion_id": 0
+  },
+  {
+    "text": "I am not particular as along as it has 4 stars and free wifi.",
+    "label": 0,
+    "emotion_id": 0
+  },
+  {
+    "text": "I'm planning a trip to Cambridge and I was told the A and B Guest House was a great place to stay.  Can you give me information about it?",
+    "label": 0,
+    "emotion_id": 0
+  },
+  {
+    "text": "Yes, please. For 6 people at 17:15 on Tuesday.",
+    "label": 0,
+    "emotion_id": 0
+  },
+  {
+    "text": "yes, what is the entrance fee?",
+    "label": 0,
+    "emotion_id": 0
+  },
+  {
+    "text": "I'm leaving from Norwich and heading for Cambridge.",
+    "label": 0,
+    "emotion_id": 0
+  },
+  {
+    "text": "Great! Can you please let me know their contact number?",
+    "label": 1,
+    "emotion_id": 6
+  },
+  {
+    "text": "No booking needed. I have everything I need. Thank you and have a nice day.",
+    "label": 1,
+    "emotion_id": 6
+  },
+  {
+    "text": "I am not ready to book seats quite yet thank you.  I do need to find a place to visit while in town though. ",
+    "label": 0,
+    "emotion_id": 0
+  },
+  {
+    "text": "The train should leave on monday and should go to cambridge. I don't care about the arrival time.",
+    "label": 0,
+    "emotion_id": 0
+  },
+  {
+    "text": "Yes. I am looking for a train that departs from Cambridge on Monday.",
+    "label": 0,
+    "emotion_id": 0
+  },
+  {
+    "text": "Thank you for your help today, it is greatly appreciated.",
+    "label": 1,
+    "emotion_id": 6
+  },
+  {
+    "text": "Are there any cheap places to eat that serve traditional food in other areas of the city?",
+    "label": 0,
+    "emotion_id": 0
+  },
+  {
+    "text": "That sounds great! Can I get the postcode? And then I need to find a train.",
+    "label": 1,
+    "emotion_id": 6
+  },
+  {
+    "text": "Could I get the taxi by 22:30",
+    "label": 0,
+    "emotion_id": 0
+  },
+  {
+    "text": "I would like to book it for 3 nights starting Sunday. For 5 people, please.",
+    "label": 0,
+    "emotion_id": 0
+  },
+  {
+    "text": "I am departing from cambridge and need to arrive by 12:00. ",
+    "label": 0,
+    "emotion_id": 0
+  },
+  {
+    "text": "Can I have the postcode for that restaurant to please?",
+    "label": 1,
+    "emotion_id": 6
+  },
+  {
+    "text": "Do you have a phone number for them? ",
+    "label": 0,
+    "emotion_id": 0
+  },
+  {
+    "text": "Thank you, goodbye.",
+    "label": 1,
+    "emotion_id": 6
+  },
+  {
+    "text": "I'm leaving from Cambridge.",
+    "label": 0,
+    "emotion_id": 0
+  },
+  {
+    "text": "Ballare sounds great. Is there a entrance fee?",
+    "label": 1,
+    "emotion_id": 6
+  },
+  {
+    "text": "I am looking for places to go in Cambridge. I am looking for an attraction that has sports and located in the Centre, can you help me find it?",
+    "label": 0,
+    "emotion_id": 0
+  },
+  {
+    "text": "I don't have a departure time but I want to arrive by 15:45.",
+    "label": 0,
+    "emotion_id": 0
+  },
+  {
+    "text": "Yes, that's mostly right, but it should be after 16:15, please. ",
+    "label": 0,
+    "emotion_id": 0
+  },
+  {
+    "text": "No, I don't think so! Thank you for your help!",
+    "label": 1,
+    "emotion_id": 6
+  },
+  {
+    "text": "no thanks",
+    "label": 0,
+    "emotion_id": 0
+  },
+  {
+    "text": "Yes. Is either one available for just one night?",
+    "label": 0,
+    "emotion_id": 0
+  },
+  {
+    "text": "any spanish local restaurants?",
+    "label": 0,
+    "emotion_id": 0
+  },
+  {
+    "text": "No, thank you. I have everything I need. Goodbye.",
+    "label": 1,
+    "emotion_id": 6
+  },
+  {
+    "text": "Great!  I also need a moderately priced hotel that is in the east.  Can you help?",
+    "label": 1,
+    "emotion_id": 6
+  },
+  {
+    "text": "Thank you, that is everything i need.",
+    "label": 1,
+    "emotion_id": 6
+  },
+  {
+    "text": "Hook me up with the spot you like best, just be sure to tell me what it is, where it is, and what it will cost me, yo.",
+    "label": 1,
+    "emotion_id": 5
+  },
+  {
+    "text": "Thank you! Will you please book me a taxi between the two places, leaving at 01:45?",
+    "label": 1,
+    "emotion_id": 6
+  },
+  {
+    "text": "Thank you. I also need help finding a place to stay. I'd prefer a guesthouse with free wifi ",
+    "label": 1,
+    "emotion_id": 6
+  },
+  {
+    "text": "For now I'd like to hear about places to go in the centre of town. Where all the action happens!",
+    "label": 1,
+    "emotion_id": 5
+  },
+  {
+    "text": "I want an expensive place to stay in the west side.",
+    "label": 0,
+    "emotion_id": 0
+  },
+  {
+    "text": "i need to book for 7 people from cambridge to stevenage on a train",
+    "label": 1,
+    "emotion_id": 2
+  },
+  {
+    "text": "Can you get me a taxi that could take me from the museum to the bistro?",
+    "label": 0,
+    "emotion_id": 0
+  },
+  {
+    "text": "birmingham new street train station",
+    "label": 1,
+    "emotion_id": 2
+  },
+  {
+    "text": "I would love the phone number.",
+    "label": 1,
+    "emotion_id": 6
+  },
+  {
+    "text": "hotel to stay in the north with moderate price with free parking",
+    "label": 1,
+    "emotion_id": 2
+  },
+  {
+    "text": "i also excited about seeing local tourist attractions in the centre",
+    "label": 1,
+    "emotion_id": 5
+  },
+  {
+    "text": "I was thinking catalan food",
+    "label": 0,
+    "emotion_id": 0
+  },
+  {
+    "text": "I am looking for a cheap place to dine.",
+    "label": 0,
+    "emotion_id": 0
+  },
+  {
+    "text": "looking for a train to arrive in cambridge by 19:15",
+    "label": 1,
+    "emotion_id": 2
+  },
+  {
+    "text": "No, thank you. ",
+    "label": 0,
+    "emotion_id": 0
+  },
+  {
+    "text": "Got it, thanks. Goodbye.",
+    "label": 1,
+    "emotion_id": 6
+  },
+  {
+    "text": "No, you have taken care of everything for me.  Thanks for being so helpful.  Bye.",
+    "label": 1,
+    "emotion_id": 6
+  },
+  {
+    "text": "That sounds great! Can you book a room there for 3 nights? Just me, and I'll be arriving on Tuesday.",
+    "label": 1,
+    "emotion_id": 6
+  },
+  {
+    "text": "Thank you for your help.",
+    "label": 1,
+    "emotion_id": 6
+  },
+  {
+    "text": "Can I please have the address as well?",
+    "label": 0,
+    "emotion_id": 0
+  },
+  {
+    "text": "That is all. Thank you.",
+    "label": 1,
+    "emotion_id": 6
+  },
+  {
+    "text": "What is their phone number?",
+    "label": 0,
+    "emotion_id": 0
+  },
+  {
+    "text": "I need a french restaurant in the same area as well.",
+    "label": 0,
+    "emotion_id": 0
+  },
+  {
+    "text": "What is the phone number?",
+    "label": 0,
+    "emotion_id": 0
+  },
+  {
+    "text": "No, thanks. I think that will take care of it. Have a good night!",
+    "label": 1,
+    "emotion_id": 6
+  },
+  {
+    "text": "number code",
+    "label": 0,
+    "emotion_id": 0
+  },
+  {
+    "text": "Hello, I'm looking for a train departing from ely.",
+    "label": 0,
+    "emotion_id": 0
+  },
+  {
+    "text": "How about a gastropub restaurant?",
+    "label": 0,
+    "emotion_id": 0
+  },
+  {
+    "text": "No I just need you to recommend one for me.",
+    "label": 1,
+    "emotion_id": 2
+  },
+  {
+    "text": "looking for a taxi. The taxi should arrive by 19:15.",
+    "label": 0,
+    "emotion_id": 0
+  },
+  {
+    "text": "Yes, that's everything I needed. Thank You!",
+    "label": 1,
+    "emotion_id": 6
+  },
+  {
+    "text": "The restaurant should be in the expensive price range. The restaurant should serve italian food.",
+    "label": 0,
+    "emotion_id": 0
+  },
+  {
+    "text": "How about an entertainment venue?",
+    "label": 0,
+    "emotion_id": 0
+  },
+  {
+    "text": "Can you tell me about a couple museums, any type, and let me know the cost.",
+    "label": 0,
+    "emotion_id": 0
+  },
+  {
+    "text": "Any fancy restaurants in town?",
+    "label": 0,
+    "emotion_id": 0
+  },
+  {
+    "text": "Sure, are there any moderately priced Italain restaurants in the south?",
+    "label": 0,
+    "emotion_id": 0
+  },
+  {
+    "text": "Yes, that sounds like someplace for me to visit.  Is it free?  Also, I'll need the postcode and phone number.",
+    "label": 1,
+    "emotion_id": 5
+  },
+  {
+    "text": "Yeah, like I said, it will just be me staying.",
+    "label": 1,
+    "emotion_id": 2
+  },
+  {
+    "text": "No, that's all for today. Goodbye.",
+    "label": 1,
+    "emotion_id": 6
+  },
+  {
+    "text": "Thanks so much!",
+    "label": 1,
+    "emotion_id": 6
+  },
+  {
+    "text": "Thanks for all your help.  That's all I need today.",
+    "label": 1,
+    "emotion_id": 6
+  },
+  {
+    "text": "what's the postcode?",
+    "label": 0,
+    "emotion_id": 0
+  },
+  {
+    "text": "No that is all thank you very much.",
+    "label": 1,
+    "emotion_id": 6
+  },
+  {
+    "text": "African restaurant",
+    "label": 1,
+    "emotion_id": 2
+  },
+  {
+    "text": "Ok, great. Thanks!",
+    "label": 1,
+    "emotion_id": 6
+  },
+  {
+    "text": "Ok, I'm also looking for an inexpensive restaurant. One with Indian food.",
+    "label": 0,
+    "emotion_id": 0
+  },
+  {
+    "text": "I'm looking for a place to dine in the moderate price range in the east.",
+    "label": 0,
+    "emotion_id": 0
+  },
+  {
+    "text": "I want to  leave the attraction by 07:45",
+    "label": 0,
+    "emotion_id": 0
+  },
+  {
+    "text": "Can you see if there is just a normal hotel in the north? It still needs to be a 2 star.",
+    "label": 0,
+    "emotion_id": 0
+  },
+  {
+    "text": "no except a train from cambridge to cambridge",
+    "label": 1,
+    "emotion_id": 2
+  },
+  {
+    "text": "Yes, 7 tickets, please. And I'll need the reference number.",
+    "label": 0,
+    "emotion_id": 0
+  },
+  {
+    "text": "No, that is all I needed. Thank you!",
+    "label": 1,
+    "emotion_id": 6
+  },
+  {
+    "text": "thanks you very much that's all i need.",
+    "label": 1,
+    "emotion_id": 6
+  },
+  {
+    "text": "Thanks! I'm also looking for somewhere to stay. Any hotels? Maybe around a 3 star, and I need wifi. ",
+    "label": 1,
+    "emotion_id": 6
+  },
+  {
+    "text": "How about thai?",
+    "label": 0,
+    "emotion_id": 0
+  },
+  {
+    "text": "what is price of tikets ?",
+    "label": 0,
+    "emotion_id": 0
+  },
+  {
+    "text": "I am looking for a 3 star hotel to stay in.",
+    "label": 0,
+    "emotion_id": 0
+  },
+  {
+    "text": "thank you that will be all all",
+    "label": 1,
+    "emotion_id": 6
+  },
+  {
+    "text": "Nope, that's it.  Thanks!",
+    "label": 1,
+    "emotion_id": 6
+  },
+  {
+    "text": "Sure, can I get the postcode, phone number, and address for La Mimosa, please?",
+    "label": 0,
+    "emotion_id": 0
+  },
+  {
+    "text": "Yes, can I get the address to the funky fun house?",
+    "label": 0,
+    "emotion_id": 0
+  },
+  {
+    "text": "Do you know an Indian restaurants in east Cambridge?",
+    "label": 0,
+    "emotion_id": 0
+  },
+  {
+    "text": "Isn't there a train that leaves closer to 13:00?",
+    "label": 1,
+    "emotion_id": 2
+  },
+  {
+    "text": "It doesn't matter which area it's in. Which would you recommend?",
+    "label": 0,
+    "emotion_id": 0
+  },
+  {
+    "text": "Can I get the address, postcode and price range of that hotel?",
+    "label": 0,
+    "emotion_id": 0
+  },
+  {
+    "text": "table for  at 11.00 on friday",
+    "label": 0,
+    "emotion_id": 0
+  },
+  {
+    "text": "Yes, and then some! Thanks so much.",
+    "label": 1,
+    "emotion_id": 6
+  },
+  {
+    "text": "A museum if you have it, otherwise I'll take what you have at the top of your list.",
+    "label": 0,
+    "emotion_id": 0
+  },
+  {
+    "text": "Yes",
+    "label": 1,
+    "emotion_id": 2
+  },
+  {
+    "text": " i am looking for a place to stay. The hotel should be in the cheap price range and should have a star of 4",
+    "label": 0,
+    "emotion_id": 0
+  },
+  {
+    "text": "Yes!  Can you book for 2 people at 14:15 on this Sunday?",
+    "label": 1,
+    "emotion_id": 6
+  },
+  {
+    "text": "expensive price range",
+    "label": 0,
+    "emotion_id": 0
+  },
+  {
+    "text": "thanks! I also need a train that should leave after 17:45 on sunday",
+    "label": 1,
+    "emotion_id": 6
+  },
+  {
+    "text": "I need a local restaurant I can try while in Cambridge. I also need a 3 star moderately priced Hotel I can stay in while in Cambridge.",
+    "label": 0,
+    "emotion_id": 0
+  },
+  {
+    "text": "Wonderful, thanks.  I need a table for 6 on Friday.  We'd like to eat tat 19:30.",
+    "label": 1,
+    "emotion_id": 6
+  },
+  {
+    "text": "i want to know at what time will the train arrive?",
+    "label": 0,
+    "emotion_id": 0
+  },
+  {
+    "text": "That sound awesome. Can I have the address?",
+    "label": 1,
+    "emotion_id": 6
+  },
+  {
+    "text": "I'd like to find an expensive place to dine in the south.",
+    "label": 0,
+    "emotion_id": 0
+  },
+  {
+    "text": "Thank you once again for all of your assistance. Have a great day.",
+    "label": 1,
+    "emotion_id": 6
+  },
+  {
+    "text": "That is all, thank you!",
+    "label": 1,
+    "emotion_id": 6
+  },
+  {
+    "text": "No,thank you. Goodbye",
+    "label": 1,
+    "emotion_id": 6
+  },
+  {
+    "text": "Could you make me a booking for 1?",
+    "label": 0,
+    "emotion_id": 0
+  },
+  {
+    "text": "Great!   What I really need is a guesthouse in the East,  What do you have available?",
+    "label": 1,
+    "emotion_id": 6
+  },
+  {
+    "text": "Can you find me a taxi from backstreet bistro? I can't leave until after 14:15.",
+    "label": 0,
+    "emotion_id": 0
+  },
+  {
+    "text": "no, I need a guesthouse.",
+    "label": 0,
+    "emotion_id": 0
+  },
+  {
+    "text": "Thanks. Bye now.",
+    "label": 1,
+    "emotion_id": 6
+  },
+  {
+    "text": "Is the system back up?  Can you make that booking I asked for.?",
+    "label": 0,
+    "emotion_id": 0
+  },
+  {
+    "text": "I'm looking for a hotel called Rosa's Bed and Breakfast.",
+    "label": 0,
+    "emotion_id": 0
+  },
+  {
+    "text": "Yes I would like to book a room.",
+    "label": 0,
+    "emotion_id": 0
+  },
+  {
+    "text": "No, that's it.  Thank you for your assistance today, you have been very helpful!",
+    "label": 1,
+    "emotion_id": 6
+  },
+  {
+    "text": "No thank you. Have a great day. Goodbye",
+    "label": 1,
+    "emotion_id": 6
+  },
+  {
+    "text": "what area is it in?",
+    "label": 0,
+    "emotion_id": 0
+  },
+  {
+    "text": "Ok that sounds great, thank you! That's all I need for now.",
+    "label": 1,
+    "emotion_id": 6
+  },
+  {
+    "text": "That sounds interesting, what type of attraction is it?",
+    "label": 1,
+    "emotion_id": 6
+  },
+  {
+    "text": "Thanks. I also need a hotel in the south. ",
+    "label": 1,
+    "emotion_id": 6
+  },
+  {
+    "text": "I need a hotel with free wifi",
+    "label": 1,
+    "emotion_id": 2
+  },
+  {
+    "text": "No thank you. That will be it. Thanks and goodbye. ",
+    "label": 1,
+    "emotion_id": 6
+  },
+  {
+    "text": "I think  I can take it from here, but I will call you if I need anything else.Thanks, ",
+    "label": 0,
+    "emotion_id": 0
+  },
+  {
+    "text": "Thank you so much for your help.  That is all that I need today.  ",
+    "label": 1,
+    "emotion_id": 6
+  },
+  {
+    "text": "Sure, can you please book a table for four in the evening",
+    "label": 0,
+    "emotion_id": 0
+  },
+  {
+    "text": "i want to travel to peterborough",
+    "label": 1,
+    "emotion_id": 2
+  },
+  {
+    "text": "Can you suggest one of the cheap ones?",
+    "label": 0,
+    "emotion_id": 0
+  },
+  {
+    "text": "I am also looking for something to do in town. Are there any cinemas? ",
+    "label": 0,
+    "emotion_id": 0
+  },
+  {
+    "text": "Thank you that's all I needed!",
+    "label": 1,
+    "emotion_id": 6
+  },
+  {
+    "text": "portuguese food, cheap price range, at the centre",
+    "label": 1,
+    "emotion_id": 2
+  },
+  {
+    "text": "I think that'll work.  I need to reserve two seats, can you help me with that?",
+    "label": 1,
+    "emotion_id": 6
+  },
+  {
+    "text": "Is Meghna Indian food?  If so, I'd like to book for the same group on the same day.",
+    "label": 0,
+    "emotion_id": 0
+  },
+  {
+    "text": "Great!   Can you help me find a place to stay with free parking and wifi?",
+    "label": 1,
+    "emotion_id": 6
+  },
+  {
+    "text": "I definitely want a hotel, and I'd like a place that has 4 stars.",
+    "label": 0,
+    "emotion_id": 0
+  },
+  {
+    "text": "No.  The train should leave on Sunday as I said.",
+    "label": 1,
+    "emotion_id": 2
+  },
+  {
+    "text": "No, could you make a recommendation based on that criteria and send me the postcode, address, and hotel type, please?",
+    "label": 0,
+    "emotion_id": 0
+  },
+  {
+    "text": "What is the price for Huntingdon marriott hotel",
+    "label": 1,
+    "emotion_id": 2
+  },
+  {
+    "text": "ok i need postcode",
+    "label": 0,
+    "emotion_id": 0
+  },
+  {
+    "text": "Hi, I'm visiting the area and would like to find some local tourist attractions to the east of here. ",
+    "label": 1,
+    "emotion_id": 5
+  },
+  {
+    "text": "I believe that is all I needed. Thank you for your help! ",
+    "label": 1,
+    "emotion_id": 6
+  },
+  {
+    "text": "That is all I need. Thank you, good bye.",
+    "label": 1,
+    "emotion_id": 6
+  },
+  {
+    "text": "It should be after 18:30",
+    "label": 1,
+    "emotion_id": 2
+  },
+  {
+    "text": "Great, that is everything I need.  May your day be filled with awesomeness.",
+    "label": 1,
+    "emotion_id": 6
+  },
+  {
+    "text": "Thank you for your help. Bye.",
+    "label": 1,
+    "emotion_id": 6
+  },
+  {
+    "text": "Is there a train from cambridge that arrives by 13:45?",
+    "label": 0,
+    "emotion_id": 0
+  },
+  {
+    "text": "yes",
+    "label": 1,
+    "emotion_id": 2
+  },
+  {
+    "text": "No thank you I do not need reservations. ",
+    "label": 1,
+    "emotion_id": 2
+  },
+  {
+    "text": "yes",
+    "label": 1,
+    "emotion_id": 2
+  },
+  {
+    "text": "I'm leaving from the missing sock.",
+    "label": 0,
+    "emotion_id": 0
+  },
+  {
+    "text": "thanks for your help. that is all i wanted",
+    "label": 1,
+    "emotion_id": 6
+  },
+  {
+    "text": "Yes, please, We need it for 2 nights starting on Tuesday for 3 people.",
+    "label": 0,
+    "emotion_id": 0
+  },
+  {
+    "text": "You are totally certain there isn't a single moderately priced hotel with free parking and a 4 star rating?",
+    "label": 1,
+    "emotion_id": 2
+  },
+  {
+    "text": "I need the address.",
+    "label": 1,
+    "emotion_id": 2
+  },
+  {
+    "text": "Great can I get the price range, phone number, and area?",
+    "label": 1,
+    "emotion_id": 6
+  },
+  {
+    "text": "Before you go--I'm a bit confused. Is the taxi picking me up at the college? At what time? I need to make my reservation at 13:45.",
+    "label": 0,
+    "emotion_id": 3
+  },
+  {
+    "text": "?",
+    "label": 1,
+    "emotion_id": 2
+  },
+  {
+    "text": "No I want to stay in the centre.  Can you check if there are any concerthalls?",
+    "label": 0,
+    "emotion_id": 0
+  },
+  {
+    "text": "Goodbye.",
+    "label": 0,
+    "emotion_id": 0
+  },
+  {
+    "text": "Thank you! Are there any guesthouses nearby?",
+    "label": 1,
+    "emotion_id": 6
+  },
+  {
+    "text": "Please make the reservation for 2 people.",
+    "label": 0,
+    "emotion_id": 0
+  },
+  {
+    "text": "Perhaps a boating attraction. Is there one in the centre of town?",
+    "label": 0,
+    "emotion_id": 0
+  },
+  {
+    "text": "I want to go from the hotel to the restaurant and need to arrive in time for my reservation. Can you book that and then give me the relevant info?",
+    "label": 0,
+    "emotion_id": 0
+  },
+  {
+    "text": "Don't book it but can you send me their full contact info?  Thanks.  ",
+    "label": 1,
+    "emotion_id": 6
+  },
+  {
+    "text": "What is the price range for that?",
+    "label": 0,
+    "emotion_id": 0
+  },
+  {
+    "text": "i want to know about the entrance fee of churchill college",
+    "label": 0,
+    "emotion_id": 0
+  },
+  {
+    "text": "Thanks I also need a train going to Stevenage on Thursday. ",
+    "label": 1,
+    "emotion_id": 6
+  },
+  {
+    "text": "I am looking for an expensive place in the centre area with free wifi?",
+    "label": 0,
+    "emotion_id": 0
+  },
+  {
+    "text": "Yes, I would prefer the south please. ",
+    "label": 0,
+    "emotion_id": 0
+  },
+  {
+    "text": "No thank you. But can you tell me if there's a restaurant called cocum in town?",
+    "label": 1,
+    "emotion_id": 6
+  },
+  {
+    "text": "No that is all I needed. Thank you.",
+    "label": 1,
+    "emotion_id": 6
+  },
+  {
+    "text": "You have. Thanks again. Good-bye.",
+    "label": 1,
+    "emotion_id": 6
+  },
+  {
+    "text": "Can you try the same day and number of people at 18:45?",
+    "label": 0,
+    "emotion_id": 0
+  },
+  {
+    "text": "Thank you, that is it bye.",
+    "label": 1,
+    "emotion_id": 6
+  },
+  {
+    "text": "I don't mind about the price but I want something with 4 stars .",
+    "label": 0,
+    "emotion_id": 0
+  },
+  {
+    "text": "I want a restaurant in the centre and serves asian oriental food? What is the phone number?",
+    "label": 0,
+    "emotion_id": 0
+  },
+  {
+    "text": "no",
+    "label": 1,
+    "emotion_id": 2
+  },
+  {
+    "text": "Great that is all I need. Thanks.",
+    "label": 1,
+    "emotion_id": 6
+  },
+  {
+    "text": "Can you find me a restaurant with a moderate price range?",
+    "label": 0,
+    "emotion_id": 0
+  },
+  {
+    "text": "No thank you. You've been great!",
+    "label": 1,
+    "emotion_id": 6
+  },
+  {
+    "text": "I'm looking for the Addenbrookes Hospital with a haematology day unit.",
+    "label": 0,
+    "emotion_id": 0
+  },
+  {
+    "text": "First of all, I need a train to get there from london kings cross. Can you help find one?",
+    "label": 0,
+    "emotion_id": 0
+  },
+  {
+    "text": "No I believe we got everything covered today.Thanks. Goodbye.",
+    "label": 1,
+    "emotion_id": 6
+  },
+  {
+    "text": "Yes, please make a reservation for 6 people at Panahar on Sunday at 13:00.",
+    "label": 0,
+    "emotion_id": 0
+  },
+  {
+    "text": "Yes please. I need a table for 3 people at 18:00 on Thursday.",
+    "label": 0,
+    "emotion_id": 0
+  },
+  {
+    "text": "No, not really.  Do you have a favorite?",
+    "label": 0,
+    "emotion_id": 0
+  },
+  {
+    "text": "No thank you that is all I need.",
+    "label": 1,
+    "emotion_id": 6
+  },
+  {
+    "text": "want to make a booking for 5 people.",
+    "label": 0,
+    "emotion_id": 0
+  },
+  {
+    "text": "Yes, I also need a taxi to go between the two.  I want to leave Nusha by 03:00.  Can you book and get me the contact and car type?",
+    "label": 0,
+    "emotion_id": 0
+  },
+  {
+    "text": "Thank you that is all I needed.",
+    "label": 1,
+    "emotion_id": 6
+  },
+  {
+    "text": "That sounds good. Can I get a table for 5 this Monday at 18:30? I also need a reference number.",
+    "label": 1,
+    "emotion_id": 6
+  },
+  {
+    "text": "Could you please also find a taxi to commute between the hotel and restaurant.",
+    "label": 0,
+    "emotion_id": 0
+  },
+  {
+    "text": "Thank you.  I would also like some help finding a train.",
+    "label": 1,
+    "emotion_id": 6
+  },
+  {
+    "text": "I'll be heading in from Leicester on Thursday.",
+    "label": 0,
+    "emotion_id": 0
+  },
+  {
+    "text": "Thanks for the help, bye!",
+    "label": 1,
+    "emotion_id": 6
+  },
+  {
+    "text": "Oh, that's too bad. I guess that's all I need then.",
+    "label": 1,
+    "emotion_id": 2
+  },
+  {
+    "text": "i need a cinema",
+    "label": 1,
+    "emotion_id": 2
+  },
+  {
+    "text": "What is the postcode?",
+    "label": 0,
+    "emotion_id": 0
+  },
+  {
+    "text": "Ok, any area will be ok",
+    "label": 0,
+    "emotion_id": 0
+  },
+  {
+    "text": "Let's forget about the attraction for now.  Can you help me with a train?",
+    "label": 0,
+    "emotion_id": 3
+  },
+  {
+    "text": "should arrive at 16:15",
+    "label": 1,
+    "emotion_id": 2
+  },
+  {
+    "text": "Could you tell me what price range that hotel is in?",
+    "label": 0,
+    "emotion_id": 0
+  },
+  {
+    "text": "That's wonderful. Thank you for your assistance, bye!",
+    "label": 1,
+    "emotion_id": 6
+  },
+  {
+    "text": "I am leaving on Thursday and can you please give me the travel time and price?",
+    "label": 0,
+    "emotion_id": 0
+  },
+  {
+    "text": "The Ashley Hotel sounds good. Does it have free parking?",
+    "label": 1,
+    "emotion_id": 6
+  },
+  {
+    "text": "How about a theatre in the centre? I will need an address and phone number too please.",
+    "label": 0,
+    "emotion_id": 0
+  },
+  {
+    "text": "Could you try the booking for only four nights and see if it works?",
+    "label": 0,
+    "emotion_id": 0
+  },
+  {
+    "text": "Yes, the train needs to arrive in Cambridge by 12:15. ",
+    "label": 0,
+    "emotion_id": 0
+  },
+  {
+    "text": "That's all I need. Thank you for your assistance!",
+    "label": 1,
+    "emotion_id": 6
+  },
+  {
+    "text": "Thank you for the info.",
+    "label": 1,
+    "emotion_id": 6
+  },
+  {
+    "text": "Yes, please! I need a taxi to commute between the two places. ",
+    "label": 0,
+    "emotion_id": 0
+  },
+  {
+    "text": "Thank you, that will be all for me today! Bye!",
+    "label": 1,
+    "emotion_id": 6
+  },
+  {
+    "text": "Thanks for all the help!",
+    "label": 1,
+    "emotion_id": 6
+  },
+  {
+    "text": "Could I make a reservation for Tuesday for 7 people at 13:45.",
+    "label": 0,
+    "emotion_id": 0
+  },
+  {
+    "text": "I am looking for a train to kings lynn",
+    "label": 1,
+    "emotion_id": 2
+  },
+  {
+    "text": "Thank you for booking that taxi and giving the contact number and car type.",
+    "label": 1,
+    "emotion_id": 6
+  },
+  {
+    "text": "Yes, I am looking for a hospital that is here in town.",
+    "label": 0,
+    "emotion_id": 0
+  },
+  {
+    "text": "Yes, that sounds lovely. Thank you.",
+    "label": 1,
+    "emotion_id": 6
+  },
+  {
+    "text": "price?",
+    "label": 1,
+    "emotion_id": 2
+  },
+  {
+    "text": "Is The Gandhi cheap? If so, I'd like to reserve a table for the same group of people at 14:00 on the same day, please.",
+    "label": 0,
+    "emotion_id": 0
+  },
+  {
+    "text": "Thanks. Now I just need a taxi to pick me up at 22:00 from the Huntingdon Marriott and take me to Clare Hall. I'll need car type and contact number",
+    "label": 1,
+    "emotion_id": 6
+  },
+  {
+    "text": "Thanks. Can you also tell me some information on the Maharajah Tandoori restaurant? ",
+    "label": 1,
+    "emotion_id": 6
+  },
+  {
+    "text": "The attraction should be in the type of museum.",
+    "label": 0,
+    "emotion_id": 0
+  },
+  {
+    "text": "No, that'll be all. Thanks a lot.",
+    "label": 1,
+    "emotion_id": 6
+  },
+  {
+    "text": "Thank you that is all I needed today. ",
+    "label": 1,
+    "emotion_id": 6
+  },
+  {
+    "text": "I'm in need of a guesthouse. I'd like it to have three stars.",
+    "label": 0,
+    "emotion_id": 0
+  },
+  {
+    "text": "what address",
+    "label": 1,
+    "emotion_id": 2
+  },
+  {
+    "text": "I want to party at a nightclub while I am visiting. Got a good one for me?",
+    "label": 1,
+    "emotion_id": 5
+  },
+  {
+    "text": "Sure as long as they have free parking as well. Can you give me the address and phone number please?",
+    "label": 0,
+    "emotion_id": 0
+  },
+  {
+    "text": "I've been in an accident and I'm hurt. I need the closest hospital with a teenage cancer trust unit. ",
+    "label": 0,
+    "emotion_id": 1
+  },
+  {
+    "text": "phone number",
+    "label": 0,
+    "emotion_id": 0
+  },
+  {
+    "text": "Please provide phone number of the museum.",
+    "label": 1,
+    "emotion_id": 2
+  },
+  {
+    "text": "Address of Cherry Hilton Hall ",
+    "label": 0,
+    "emotion_id": 0
+  },
+  {
+    "text": "Sure, book it for 3 people please.",
+    "label": 0,
+    "emotion_id": 0
+  },
+  {
+    "text": "I am looking for a place to stay",
+    "label": 1,
+    "emotion_id": 2
+  },
+  {
+    "text": "Wednesday for 3 nights and 6 people please.",
+    "label": 0,
+    "emotion_id": 0
+  },
+  {
+    "text": "after 10:30",
+    "label": 1,
+    "emotion_id": 2
+  },
+  {
+    "text": "that is all thanks",
+    "label": 1,
+    "emotion_id": 6
+  },
+  {
+    "text": "Looking for a place to go to in the centre area, a type of college.",
+    "label": 0,
+    "emotion_id": 0
+  },
+  {
+    "text": "That sounds perfect. I need that for 5 nights.",
+    "label": 1,
+    "emotion_id": 6
+  },
+  {
+    "text": "Thank you. Goodbye.",
+    "label": 1,
+    "emotion_id": 6
+  },
+  {
+    "text": "phone is correct",
+    "label": 1,
+    "emotion_id": 2
+  },
+  {
+    "text": "Are any of them in the Centre? ",
+    "label": 0,
+    "emotion_id": 0
+  },
+  {
+    "text": "What's a cheap place to stay that offers free parking? ",
+    "label": 0,
+    "emotion_id": 0
+  },
+  {
+    "text": "I need all three things please, train id, arrival time and travel time. ",
+    "label": 1,
+    "emotion_id": 2
+  },
+  {
+    "text": "Awesome, thanks so much for your help! That is all I needed, have a good day.",
+    "label": 1,
+    "emotion_id": 6
+  },
+  {
+    "text": "yes",
+    "label": 0,
+    "emotion_id": 0
+  },
+  {
+    "text": "I'm also looking for a museum in town. Can you recommend something?",
+    "label": 0,
+    "emotion_id": 0
+  },
+  {
+    "text": "That works great. What is the arrival time and price?",
+    "label": 1,
+    "emotion_id": 6
+  },
+  {
+    "text": "That sounds great! Could you book me a table for 8 people at 14:45 on Tuesday, please?",
+    "label": 1,
+    "emotion_id": 6
+  },
+  {
+    "text": "I'll visit anything. I don't much care the type. ",
+    "label": 0,
+    "emotion_id": 0
+  },
+  {
+    "text": "Hi there, I'm looking for information on Darry's Cookhouse and Wine Shop.",
+    "label": 0,
+    "emotion_id": 0
+  },
+  {
+    "text": "I am looking for the police station",
+    "label": 0,
+    "emotion_id": 0
+  },
+  {
+    "text": "Thank you for your help.",
+    "label": 1,
+    "emotion_id": 6
+  },
+  {
+    "text": "what is the car type and phone number",
+    "label": 0,
+    "emotion_id": 0
+  },
+  {
+    "text": "Sorry to confuse. Yes, can I book a taxi from Wandlebury Country Park to Warkworth House. I want to leave by 11:30. ",
+    "label": 0,
+    "emotion_id": 3
+  },
+  {
+    "text": "That's more like it. And, what's the reference number?",
+    "label": 1,
+    "emotion_id": 6
+  },
+  {
+    "text": "Great. Can you also help me find a museum to visit in the east?",
+    "label": 1,
+    "emotion_id": 6
+  },
+  {
+    "text": "I would like a lower price range with free parking.",
+    "label": 0,
+    "emotion_id": 0
+  },
+  {
+    "text": "Yes, I'll also need their address please.",
+    "label": 0,
+    "emotion_id": 0
+  },
+  {
+    "text": "Ok,thank you",
+    "label": 1,
+    "emotion_id": 2
+  },
+  {
+    "text": "No thank you, that is everything that I need.",
+    "label": 1,
+    "emotion_id": 6
+  },
+  {
+    "text": "Nope that'll be all for now. Thank you have a good day.",
+    "label": 1,
+    "emotion_id": 6
+  },
+  {
+    "text": "I am also looking for a moderately priced Italian food restaurant.",
+    "label": 0,
+    "emotion_id": 0
+  },
+  {
+    "text": "friday",
+    "label": 0,
+    "emotion_id": 0
+  },
+  {
+    "text": "Just one please",
+    "label": 0,
+    "emotion_id": 0
+  },
+  {
+    "text": "That's all for today! Thanks a ton. Bye!",
+    "label": 1,
+    "emotion_id": 6
+  },
+  {
+    "text": "Are you sure? It should be expensive.",
+    "label": 0,
+    "emotion_id": 0
+  },
+  {
+    "text": "No, that's everything. Thank you.",
+    "label": 1,
+    "emotion_id": 6
+  },
+  {
+    "text": "Great, thank you!",
+    "label": 1,
+    "emotion_id": 6
+  },
+  {
+    "text": "I wish to go to New York City leaving this Friday.",
+    "label": 0,
+    "emotion_id": 0
+  },
+  {
+    "text": "What is a cheap restaurant in the south part of town?",
+    "label": 0,
+    "emotion_id": 0
+  },
+  {
+    "text": "No thanks. That's it. Goodbye. ",
+    "label": 1,
+    "emotion_id": 6
+  },
+  {
+    "text": "The hotel should be in the type of guesthouse.",
+    "label": 0,
+    "emotion_id": 0
+  },
+  {
+    "text": "Thank you! Goobye.",
+    "label": 1,
+    "emotion_id": 6
+  },
+  {
+    "text": "I'd like an Italian restaurant, please.",
+    "label": 1,
+    "emotion_id": 5
+  },
+  {
+    "text": "Great! I've heard about a restaurant called Curry Garden. What can you tell me about it?",
+    "label": 1,
+    "emotion_id": 6
+  },
+  {
+    "text": "Sounds great! Can you make a reservation for 6 people at noontime on Sunday?",
+    "label": 1,
+    "emotion_id": 6
+  },
+  {
+    "text": "Sure, how about an expensive Indian restaurant?",
+    "label": 0,
+    "emotion_id": 0
+  },
+  {
+    "text": "Please tell me the address and phone number of the indian restaurant",
+    "label": 0,
+    "emotion_id": 0
+  },
+  {
+    "text": "I'm looking for a train departing from Norwich to Cambridge on Friday, I'm hoping to leave by 12:00.",
+    "label": 0,
+    "emotion_id": 0
+  },
+  {
+    "text": "Thanks. Coulc you book a room for me, just one person. It will be three nights starting Sunday.",
+    "label": 0,
+    "emotion_id": 0
+  },
+  {
+    "text": "No thank you. I will do that later. But I've got to get to work. Thanks. Goodbye. ",
+    "label": 1,
+    "emotion_id": 6
+  },
+  {
+    "text": "book it",
+    "label": 1,
+    "emotion_id": 2
+  },
+  {
+    "text": "I am looking forward to try a local restaurant in Cambridge and I have clowns cafe particularly in my mind. Can you assist to book a table for me?",
+    "label": 1,
+    "emotion_id": 5
+  },
+  {
+    "text": "Great! Yes, I also need to find an expensive restaurant close to the hotel. ",
+    "label": 1,
+    "emotion_id": 6
+  },
+  {
+    "text": "No, that's all for today. Thank you for all your help. Have a great day!",
+    "label": 1,
+    "emotion_id": 6
+  },
+  {
+    "text": "Um ok? well can you find a different restaurant in the same area and pricerange.",
+    "label": 1,
+    "emotion_id": 2
+  },
+  {
+    "text": "The boating attraction sounds like a lot of fun. How much do they charge to get in?",
+    "label": 1,
+    "emotion_id": 5
+  },
+  {
+    "text": "I am looking for italian food.",
+    "label": 0,
+    "emotion_id": 0
+  },
+  {
+    "text": "Thanks so much for your help do you know if I need to make a reservation?",
+    "label": 1,
+    "emotion_id": 6
+  },
+  {
+    "text": "Thank you.  That  is all for now.",
+    "label": 1,
+    "emotion_id": 6
+  },
+  {
+    "text": "I'll be heading to Cambridge and I'd like to leave at or a little after 09:00, if possible.",
+    "label": 0,
+    "emotion_id": 0
+  },
+  {
+    "text": "I'm looking for an expensive restaurant in the west of town that serves modern European dishes.",
+    "label": 1,
+    "emotion_id": 2
+  },
+  {
+    "text": "I'm seeing local tourist attractions. The attraction should be in the centre.",
+    "label": 1,
+    "emotion_id": 2
+  },
+  {
+    "text": "I NEED CAR TYPE AND PHONE NUMBER",
+    "label": 1,
+    "emotion_id": 2
+  },
+  {
+    "text": "Great, thanks. I am also looking for a hotel in town. I would need free wifi, but I don't care about parking.",
+    "label": 1,
+    "emotion_id": 6
+  },
+  {
+    "text": "Thursday morning at 9 am",
+    "label": 0,
+    "emotion_id": 0
+  },
+  {
+    "text": "Nope that is it.",
+    "label": 0,
+    "emotion_id": 0
+  },
+  {
+    "text": "Where is the restaurant called Tandoori Palace?",
+    "label": 0,
+    "emotion_id": 0
+  },
+  {
+    "text": "Sure! Can you book it for 2 people and 5 nights starting Friday?",
+    "label": 1,
+    "emotion_id": 6
+  },
+  {
+    "text": "find a hotel  in central area",
+    "label": 1,
+    "emotion_id": 2
+  },
+  {
+    "text": "I need a train as well.",
+    "label": 0,
+    "emotion_id": 0
+  },
+  {
+    "text": "for 4 nigjhts",
+    "label": 1,
+    "emotion_id": 2
+  },
+  {
+    "text": "yes....i am looking foe hotel to stay",
+    "label": 1,
+    "emotion_id": 2
+  },
+  {
+    "text": "I need to arrive by 20:30.",
+    "label": 0,
+    "emotion_id": 0
+  },
+  {
+    "text": "Can you help me find a train coming from cambridge leaving on thursday? ",
+    "label": 0,
+    "emotion_id": 0
+  },
+  {
+    "text": "I'm looking for something to do.",
+    "label": 0,
+    "emotion_id": 0
+  },
+  {
+    "text": "How about 1 night?",
+    "label": 0,
+    "emotion_id": 0
+  },
+  {
+    "text": "No thanks, I'd like to call them first.  Can you give me the address, phone number and entry fee for Cherry hinton village centre?",
+    "label": 0,
+    "emotion_id": 0
+  },
+  {
+    "text": "Can you give me one that has free wifi and free parking?",
+    "label": 0,
+    "emotion_id": 0
+  },
+  {
+    "text": "Can I get one that has free parking?",
+    "label": 0,
+    "emotion_id": 0
+  },
+  {
+    "text": "Could you help me with a particular attraction in Cambridge?",
+    "label": 0,
+    "emotion_id": 0
+  },
+  {
+    "text": "No, that's it for now. Thanks!",
+    "label": 1,
+    "emotion_id": 6
+  },
+  {
+    "text": "No, thank you for all your help. I believe you helped with everything I needed today, goodbye. ",
+    "label": 1,
+    "emotion_id": 6
+  },
+  {
+    "text": "will i get star of 4",
+    "label": 1,
+    "emotion_id": 2
+  },
+  {
+    "text": "Please! Can you also provide the address with postcode and the phone number? I'd like to jot it down in case I get lost!",
+    "label": 1,
+    "emotion_id": 5
+  },
+  {
+    "text": "I want to book a room at the el shaddai for 4 people 4 nights starting tuesday",
+    "label": 0,
+    "emotion_id": 0
+  },
+  {
+    "text": "That is great, that is all I need for now.",
+    "label": 1,
+    "emotion_id": 6
+  },
+  {
+    "text": "Thanks. I would like some information on Rosa's bed and breakfast, please.",
+    "label": 1,
+    "emotion_id": 6
+  },
+  {
+    "text": "No, that will be all. Thanks.",
+    "label": 1,
+    "emotion_id": 6
+  },
+  {
+    "text": "No, that's all, thanks for the assistance!",
+    "label": 1,
+    "emotion_id": 6
+  },
+  {
+    "text": "That will be all, thank you. Have a great day.",
+    "label": 1,
+    "emotion_id": 6
+  },
+  {
+    "text": "i am looking for a local restaurent at north on moderate price",
+    "label": 0,
+    "emotion_id": 0
+  },
+  {
+    "text": "Great!! That's all for now. Thank you so much.",
+    "label": 1,
+    "emotion_id": 6
+  },
+  {
+    "text": "I need help finding a place to stay.",
+    "label": 0,
+    "emotion_id": 0
+  },
+  {
+    "text": "I would like one train ticket please. ",
+    "label": 0,
+    "emotion_id": 0
+  },
+  {
+    "text": "Actually I need a train to Cambridge from Kings lynn on Saturday after 17:00.",
+    "label": 0,
+    "emotion_id": 0
+  },
+  {
+    "text": "Hi, I'm looking for a nice play to stay in Cambridge that has free wifi.",
+    "label": 0,
+    "emotion_id": 0
+  },
+  {
+    "text": "Can you book me 2 tickets?",
+    "label": 0,
+    "emotion_id": 0
+  },
+  {
+    "text": "Thanks! I think you covered everything I need. Have a good one. Bye. ",
+    "label": 1,
+    "emotion_id": 6
+  },
+  {
+    "text": "No, thank you. That's all I need today.",
+    "label": 1,
+    "emotion_id": 6
+  },
+  {
+    "text": "No that is everything I needed today. ",
+    "label": 0,
+    "emotion_id": 0
+  },
+  {
+    "text": "Does this restaurant serve european food?",
+    "label": 0,
+    "emotion_id": 0
+  },
+  {
+    "text": "the train from ely",
+    "label": 1,
+    "emotion_id": 2
+  },
+  {
+    "text": "Thanks for the help that's all I need. Have a great day. Goodbye.",
+    "label": 1,
+    "emotion_id": 6
+  },
+  {
+    "text": "Great. Do you know of a high-end hotel I could stay at? It has to have free wifi.",
+    "label": 1,
+    "emotion_id": 6
+  },
+  {
+    "text": "I want to book 3 nights there, please.",
+    "label": 0,
+    "emotion_id": 0
+  },
+  {
+    "text": "Looking forward to try restaurant",
+    "label": 1,
+    "emotion_id": 2
+  },
+  {
+    "text": "That is all I need for now.  Thank you for your help.",
+    "label": 1,
+    "emotion_id": 6
+  },
+  {
+    "text": "Hello, I'd like some information on a restaurant today.",
+    "label": 0,
+    "emotion_id": 0
+  },
+  {
+    "text": "okay...booking table for 4 people and the timing is 13.30 on saturday",
+    "label": 0,
+    "emotion_id": 0
+  },
+  {
+    "text": "Yes on Friday. I need a taxi too.",
+    "label": 0,
+    "emotion_id": 0
+  },
+  {
+    "text": "Yes, I was wondering what the location is of Addenbrookes Hospital.",
+    "label": 0,
+    "emotion_id": 0
+  },
+  {
+    "text": "Thank you. I'd also like to book a taxi. I need to leave the hotel by 10:15.",
+    "label": 1,
+    "emotion_id": 6
+  },
+  {
+    "text": "Great. Can I have the postcode for the Aplha-Milton guesthouse?",
+    "label": 1,
+    "emotion_id": 6
+  },
+  {
+    "text": "I'm looking for a place to stay. The hotel should be in the expensive price range. The hotel should be in the type of hotel. The hotel should include free wifi.",
+    "label": 0,
+    "emotion_id": 0
+  },
+  {
+    "text": "I need to book a table",
+    "label": 0,
+    "emotion_id": 0
+  },
+  {
+    "text": "No thank you.  That was all I needed to know.  Thanks and goodbye.",
+    "label": 1,
+    "emotion_id": 6
+  },
+  {
+    "text": "Yes, please book it for 13:30 on Saturday for 8 people.",
+    "label": 0,
+    "emotion_id": 0
+  },
+  {
+    "text": "I would prefer to find one  that is located in the north. ",
+    "label": 0,
+    "emotion_id": 0
+  },
+  {
+    "text": "what's the address",
+    "label": 0,
+    "emotion_id": 0
+  },
+  {
+    "text": "Is there a hospital in Cambridge that has a plastic and vascular surgery department?",
+    "label": 0,
+    "emotion_id": 0
+  },
+  {
+    "text": "I need a train from norwich to get to the hotel by 16:30.",
+    "label": 0,
+    "emotion_id": 0
+  },
+  {
+    "text": "That is all I need. Thank you.",
+    "label": 1,
+    "emotion_id": 6
+  },
+  {
+    "text": "Local tourist type that i want is architecture",
+    "label": 1,
+    "emotion_id": 2
+  },
+  {
+    "text": "Which part of town it is in ?",
+    "label": 0,
+    "emotion_id": 0
+  },
+  {
+    "text": "What about Indian food?",
+    "label": 0,
+    "emotion_id": 0
+  },
+  {
+    "text": "I'malso looking for a 4 star hotel. It needs to have free parking.",
+    "label": 0,
+    "emotion_id": 0
+  },
+  {
+    "text": "No that's all, thank you!",
+    "label": 1,
+    "emotion_id": 6
+  },
+  {
+    "text": "If you can book it for my group, I need it for 3 nights starting on Wednesday.",
+    "label": 0,
+    "emotion_id": 0
+  },
+  {
+    "text": "would you like to book something without free wifi, or in another area.",
+    "label": 0,
+    "emotion_id": 0
+  },
+  {
+    "text": "No, I don't need further help. Thank you.",
+    "label": 1,
+    "emotion_id": 6
+  },
+  {
+    "text": "What is the address?",
+    "label": 0,
+    "emotion_id": 0
+  },
+  {
+    "text": "Yes, I would like to go to a college with free admission.",
+    "label": 0,
+    "emotion_id": 0
+  },
+  {
+    "text": "great yes thank you, can I have the address too?",
+    "label": 1,
+    "emotion_id": 6
+  },
+  {
+    "text": "No that's all. Thanks for your help!",
+    "label": 1,
+    "emotion_id": 6
+  },
+  {
+    "text": "Do you have information about the Lovell Lodge?",
+    "label": 0,
+    "emotion_id": 0
+  },
+  {
+    "text": "No, but thank you, you've been very helpful.",
+    "label": 1,
+    "emotion_id": 6
+  },
+  {
+    "text": "The Ugly Duckling sounds interesting! What's their address?",
+    "label": 1,
+    "emotion_id": 6
+  },
+  {
+    "text": "No, I am done for the day. Thanks again. Bye!",
+    "label": 1,
+    "emotion_id": 6
+  },
+  {
+    "text": "No thanks, is there any turkish restaurants in the same price range and area?",
+    "label": 0,
+    "emotion_id": 0
+  },
+  {
+    "text": "Yes, that's perfect. Thanks for your help.",
+    "label": 1,
+    "emotion_id": 6
+  },
+  {
+    "text": "Okay thank you very much.",
+    "label": 1,
+    "emotion_id": 6
+  },
+  {
+    "text": "That is all. Thanks so much!",
+    "label": 1,
+    "emotion_id": 6
+  },
+  {
+    "text": "Stansted Airport. I'll need a train that leaves after 10:45.",
+    "label": 0,
+    "emotion_id": 0
+  },
+  {
+    "text": "Yes thanks, that will be all.",
+    "label": 0,
+    "emotion_id": 0
+  },
+  {
+    "text": "That'll be all! Thank you!",
+    "label": 1,
+    "emotion_id": 6
+  },
+  {
+    "text": "ok thank you, lets book that one",
+    "label": 1,
+    "emotion_id": 6
+  },
+  {
+    "text": "Yes please. I need a reservation for 6 people at 16:15 on Thursday.",
+    "label": 0,
+    "emotion_id": 0
+  },
+  {
+    "text": "I need a train",
+    "label": 0,
+    "emotion_id": 0
+  },
+  {
+    "text": "Can you find me a 3 star hotel in the centre?",
+    "label": 0,
+    "emotion_id": 0
+  },
+  {
+    "text": "Thanks that's all I needed for the night.",
+    "label": 1,
+    "emotion_id": 6
+  },
+  {
+    "text": "car type",
+    "label": 1,
+    "emotion_id": 2
+  },
+  {
+    "text": "travel time?",
+    "label": 1,
+    "emotion_id": 2
+  },
+  {
+    "text": "You've been more than helpful. Thanks but thats all I need. Have a good night. ",
+    "label": 1,
+    "emotion_id": 6
+  },
+  {
+    "text": "I want to find a cheap restaurant in the north part of town. What is the phone number?",
+    "label": 0,
+    "emotion_id": 0
+  },
+  {
+    "text": "address",
+    "label": 1,
+    "emotion_id": 2
+  },
+  {
+    "text": "yes please, book a table for 8 people at 19:30 on thursday",
+    "label": 0,
+    "emotion_id": 0
+  },
+  {
+    "text": "I would like to leave churchill college and get to cafe uno by 17:00",
+    "label": 0,
+    "emotion_id": 0
+  },
+  {
+    "text": "Do you restaurant which offers chinese food?",
+    "label": 1,
+    "emotion_id": 2
+  },
+  {
+    "text": "No, there is nothing else I need today. thank you. Goodbye.",
+    "label": 1,
+    "emotion_id": 6
+  },
+  {
+    "text": "No, parking is not an issue.  What do you think is the best option?",
+    "label": 0,
+    "emotion_id": 0
+  },
+  {
+    "text": "I'm sorry, I got confused there for a moment - were you unable to book me for 4 nights?",
+    "label": 0,
+    "emotion_id": 3
+  },
+  {
+    "text": "No, but can I have the address and entrance fee please and thank you?",
+    "label": 0,
+    "emotion_id": 0
+  },
+  {
+    "text": "No, but a thank you for helping me.",
+    "label": 1,
+    "emotion_id": 6
+  },
+  {
+    "text": "I want to stay at a 4 star hotel",
+    "label": 0,
+    "emotion_id": 0
+  },
+  {
+    "text": "No, that's all for me. Thanks! Goodbye!",
+    "label": 1,
+    "emotion_id": 6
+  },
+  {
+    "text": "Great, thanks very much for the help.",
+    "label": 1,
+    "emotion_id": 6
+  },
+  {
+    "text": "I would like to be picked up at the Holy Trinity Church, and arrive at Cocum by 3:15.",
+    "label": 0,
+    "emotion_id": 0
+  },
+  {
+    "text": "I have no food preference, but I would prefer an expensive restaurant.",
+    "label": 0,
+    "emotion_id": 0
+  },
+  {
+    "text": "I need to book a taxi to take me from Bangkok City. I need to leave by 19:30.",
+    "label": 0,
+    "emotion_id": 0
+  },
+  {
+    "text": "That sounds great. Can you please book that for one person and give me the reference number?",
+    "label": 1,
+    "emotion_id": 6
+  },
+  {
+    "text": "taxi",
+    "label": 1,
+    "emotion_id": 2
+  },
+  {
+    "text": "Great thanks! I believe that is everything I need for today. Good bye!",
+    "label": 1,
+    "emotion_id": 6
+  },
+  {
+    "text": "Could you tell me about the restaurants neat the hotel?",
+    "label": 0,
+    "emotion_id": 0
+  },
+  {
+    "text": "Ok, thank you.",
+    "label": 1,
+    "emotion_id": 6
+  },
+  {
+    "text": "I just need to get to the restaurant by the time the reservation starts.",
+    "label": 0,
+    "emotion_id": 0
+  },
+  {
+    "text": "I'll be traveling on wednesday, and I will be go to peterborough. ",
+    "label": 0,
+    "emotion_id": 0
+  },
+  {
+    "text": "I'm actually looking to book a specific hotel. It is called the Alpha-Milton Guest House. ",
+    "label": 0,
+    "emotion_id": 0
+  },
+  {
+    "text": "I want to check whether that number belongs to the restaurant anatolia",
+    "label": 0,
+    "emotion_id": 0
+  },
+  {
+    "text": "Thanks - that's all I needed today. Goodbye!",
+    "label": 1,
+    "emotion_id": 6
+  },
+  {
+    "text": "I need a hotel in the north with free wifi and moderate price range",
+    "label": 0,
+    "emotion_id": 0
+  },
+  {
+    "text": "Curry Garden sounds good, can you book me for 4 people at 12:15 on saturday?",
+    "label": 1,
+    "emotion_id": 6
+  },
+  {
+    "text": "That's perfect, thanks! ",
+    "label": 1,
+    "emotion_id": 6
+  },
+  {
+    "text": "I am departing from stevenage and going to cambridge. ",
+    "label": 0,
+    "emotion_id": 0
+  },
+  {
+    "text": "Thanks, that's all I needed today. Goodbye!",
+    "label": 1,
+    "emotion_id": 6
+  },
+  {
+    "text": "I'm sorry, I decided that I do need a hotel in the centre.",
+    "label": 0,
+    "emotion_id": 3
+  },
+  {
+    "text": "Perfect, yes. I want a table for 5 at 16:00 on monday.",
+    "label": 1,
+    "emotion_id": 6
+  },
+  {
+    "text": "Yes, please. Also their address and postcode.",
+    "label": 0,
+    "emotion_id": 0
+  },
+  {
+    "text": "Hi I need a restaurant in centre",
+    "label": 0,
+    "emotion_id": 0
+  },
+  {
+    "text": "Yes the phone number would be great.  What are their hours?",
+    "label": 1,
+    "emotion_id": 6
+  },
+  {
+    "text": "yes please book it for me thank you ",
+    "label": 0,
+    "emotion_id": 0
+  },
+  {
+    "text": "i am new here. i need a place to stay with free wifi",
+    "label": 0,
+    "emotion_id": 0
+  },
+  {
+    "text": "Alright, that sounds good to me. Could you give me their address and phone number please?",
+    "label": 1,
+    "emotion_id": 6
+  },
+  {
+    "text": "Thank you. I am also looking for places to go in town. Are there any architecture sights in the city centre?",
+    "label": 1,
+    "emotion_id": 6
+  },
+  {
+    "text": "Yeah, I'm hoping to find a cheap place to stay. Can you help with that?",
+    "label": 0,
+    "emotion_id": 0
+  },
+  {
+    "text": "I'm looking for places go to in the south of town.",
+    "label": 0,
+    "emotion_id": 0
+  },
+  {
+    "text": "No that was all. Thank you.",
+    "label": 1,
+    "emotion_id": 6
+  },
+  {
+    "text": "Can you suggest a 4-star expensive hotel with free wifi in the West?",
+    "label": 0,
+    "emotion_id": 0
+  },
+  {
+    "text": "I'm sorry, I know I said Thursday, but I will actually be leaving on Wednesday. Can you check for that day instead?",
+    "label": 0,
+    "emotion_id": 3
+  },
+  {
+    "text": "Thank you! Good bye!",
+    "label": 1,
+    "emotion_id": 6
+  },
+  {
+    "text": "Can you also help me find some kind of architecture attraction in city centre?",
+    "label": 0,
+    "emotion_id": 0
+  },
+  {
+    "text": "That should be all! Thanks! ",
+    "label": 1,
+    "emotion_id": 6
+  },
+  {
+    "text": "Is that hotel in the North?",
+    "label": 0,
+    "emotion_id": 0
+  },
+  {
+    "text": "yeah book it for the same group of people please",
+    "label": 0,
+    "emotion_id": 0
+  },
+  {
+    "text": "Nope, that's all I need. Thanks for your help!",
+    "label": 1,
+    "emotion_id": 6
+  },
+  {
+    "text": "I'd like to go to people's portraits exhibition at girton college. I've heard it's stunning!",
+    "label": 1,
+    "emotion_id": 5
+  },
+  {
+    "text": "okay ",
+    "label": 1,
+    "emotion_id": 2
+  },
+  {
+    "text": "I want to go from the restaurant Prezzo by 9:45 to Pembroke college. ",
+    "label": 0,
+    "emotion_id": 0
+  },
+  {
+    "text": "Look for a restaurant",
+    "label": 1,
+    "emotion_id": 2
+  },
+  {
+    "text": "Actually, try to see if there is one with a 4-star rating, not 1 star.  ",
+    "label": 0,
+    "emotion_id": 3
+  }
+]

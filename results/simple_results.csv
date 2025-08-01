@@ -1,0 +1,9 @@
+experiment_name,features_used,f1_score,precision,recall,accuracy,num_features,notes
+baseline,none,0.8108,0.8108,0.8108,0.8133,0,RoBERTa baseline without features
+run_1_linguistic_bundle,linguistic_bundle,0.5357142857142857,0.7894736842105263,0.40540540540540543,0.6533333333333333,8,Logistic regression with 1 bundles
+run_2_dialogue_bundle,dialogue_bundle,0.6987951807228915,0.6304347826086957,0.7837837837837838,0.6666666666666666,4,Logistic regression with 1 bundles
+run_3_behavioral_bundle,behavioral_bundle,0.6607142857142857,0.49333333333333335,1.0,0.49333333333333335,2,Logistic regression with 1 bundles
+run_4_contextual_bundle,contextual_bundle,0.6373626373626374,0.5370370370370371,0.7837837837837838,0.56,3,Logistic regression with 1 bundles
+run_5_emotion_dynamics_bundle,emotion_dynamics_bundle,0.6607142857142857,0.49333333333333335,1.0,0.49333333333333335,2,Logistic regression with 1 bundles
+run_6_system_bundle,system_bundle,0.6534653465346535,0.515625,0.8918918918918919,0.5333333333333333,2,Logistic regression with 1 bundles
+run_7_user_model_bundle,user_model_bundle,0.6607142857142857,0.49333333333333335,1.0,0.49333333333333335,1,Logistic regression with 1 bundles

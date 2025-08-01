@@ -1,0 +1,50 @@
+# Model files and checkpoints
+checkpoint*/
+*.pt
+*.bin
+*.pth
+*.safetensors
+*.ckpt
+*.h5
+*.pkl
+*.pickle
+
+# Training output directories
+*/output/
+output/
+runs/
+logs/
+tensorboard/
+wandb/
+
+# Large data files
+*.csv.gz
+*.json.gz
+*.tar.gz
+*.zip
+
+# Cache and temporary files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.so
+.pytest_cache/
+
+# IDE and editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Environment files
+.env
+.venv
+env/
+venv/

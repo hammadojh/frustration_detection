@@ -1,0 +1,50 @@
+================================================================================
+COMPREHENSIVE ABLATION STUDY - FEATURE IMPORTANCE ANALYSIS
+================================================================================
+Total experiments conducted: 68
+Baseline (text-only) F1: 0.8378
+Full 22 features F1: 0.8831 (reference)
+
+TOP 10 INDIVIDUAL FEATURES (when used alone):
+------------------------------------------------------------
+ 1. sentiment_slope           | F1: 0.8108 | Index:  0
+ 2. avg_politeness            | F1: 0.8108 | Index:  2
+ 3. avg_confusion             | F1: 0.8108 | Index:  4
+ 4. avg_negation              | F1: 0.8108 | Index:  5
+ 5. total_turns               | F1: 0.8108 | Index:  8
+ 6. avg_turn_length           | F1: 0.8108 | Index:  9
+ 7. repeated_turns            | F1: 0.8108 | Index: 10
+ 8. corrections               | F1: 0.8108 | Index: 11
+ 9. escalation_requests       | F1: 0.8108 | Index: 12
+10. avg_urgency               | F1: 0.8108 | Index: 14
+
+BUNDLE PERFORMANCE RANKING:
+------------------------------------------------------------
+1. linguistic_bundle         | F1: 0.8571 | Features:  8
+2. behavioral_bundle         | F1: 0.8533 | Features:  2
+3. emotion_dynamics_bundle   | F1: 0.8533 | Features:  2
+4. system_bundle             | F1: 0.8533 | Features:  2
+5. contextual_bundle         | F1: 0.8421 | Features:  3
+6. dialogue_bundle           | F1: 0.8354 | Features:  4
+7. user_model_bundle         | F1: 0.8108 | Features:  1
+
+MOST CRITICAL FEATURES (by removal impact):
+------------------------------------------------------------
+ 1. sentiment_slope           | Impact: -0.0116 | F1: 0.8947
+ 2. sentiment_volatility      | Impact: -0.0116 | F1: 0.8947
+ 3. avg_politeness            | Impact: -0.0116 | F1: 0.8947
+ 4. politeness_decline        | Impact: -0.0116 | F1: 0.8947
+ 5. avg_confusion             | Impact: -0.0116 | F1: 0.8947
+ 6. avg_negation              | Impact: -0.0116 | F1: 0.8947
+ 7. avg_caps                  | Impact: -0.0116 | F1: 0.8947
+ 8. avg_exclamation           | Impact: -0.0116 | F1: 0.8947
+ 9. total_turns               | Impact: -0.0116 | F1: 0.8947
+10. avg_turn_length           | Impact: -0.0116 | F1: 0.8947
+
+KEY INSIGHTS:
+------------------------------------------------------------
+• Best individual feature: sentiment_slope (F1: 0.8108)
+• Best bundle: linguistic_bundle (F1: 0.8571)
+• Most critical feature: sentiment_slope (impact: -0.0116)
+• Individual feature F1 range: 0.8000 to 0.8108
+• Bundle F1 range: 0.8108 to 0.8571

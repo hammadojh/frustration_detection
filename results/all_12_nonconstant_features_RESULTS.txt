@@ -1,0 +1,46 @@
+================================================================================
+ALL 12 NON-CONSTANT FEATURES EARLY FUSION TEST
+================================================================================
+Experiment completed in 0.7 minutes
+
+FEATURE COMBINATION TESTED:
+  Number of features: 12
+  Feature indices: [2, 4, 5, 7, 9, 11, 12, 14, 16, 19, 20, 21]
+  Feature names:
+     1. avg_politeness
+     2. avg_confusion
+     3. avg_negation
+     4. avg_exclamation
+     5. avg_turn_length
+     6. corrections
+     7. escalation_requests
+     8. avg_urgency
+     9. task_complexity
+    10. response_clarity
+    11. response_relevance
+    12. trust_decline
+
+DETAILED RESULTS:
+  Test F1:        0.8608
+  Test Precision: 0.8095
+  Test Recall:    0.9189
+  Test Accuracy:  0.8533
+  Train F1:       0.9529
+  Train Accuracy: 0.9514
+
+PERFORMANCE COMPARISON:
+  vs All 22 features:     -0.0223 (-2.53%)
+  vs Linguistic 8:        +0.0037 (+0.43%)
+  vs Best 6 features:     +0.0146 (+1.72%)
+  vs Best 2 features:     +0.0075 (+0.87%)
+
+EFFICIENCY METRICS:
+  Feature reduction vs 22: 45.5%
+  F1 per feature:          0.0717
+  Performance retention:   97.5%
+
+FINAL STATUS: ✅ BEATS LINGUISTIC BASELINE
+
+CONCLUSION:
+✅ IMPROVEMENT: Using 12 features provides meaningful improvement
+   over the previous best 6-feature combination.

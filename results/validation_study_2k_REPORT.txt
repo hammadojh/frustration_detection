@@ -1,0 +1,32 @@
+================================================================================
+VALIDATION STUDY: 2K BALANCED DATAPOINTS
+================================================================================
+Total validation experiments: 19
+Dataset size: 2000 balanced examples (1000 frustrated, 1000 not frustrated)
+Train/Val/Test split: 1400/300/300
+
+2K BASELINE PERFORMANCE:
+  Text-only F1: 0.7606
+
+TOP PERFORMING CONFIGURATIONS (2K validation):
+------------------------------------------------------------
+ 1. top_3_features_2k              | F1: 0.8043 | Features:  3
+ 2. bundle_linguistic_bundle_2k    | F1: 0.7914 | Features:  8
+ 3. bundle_system_bundle_2k        | F1: 0.7914 | Features:  2
+ 4. linguistic_8_2k                | F1: 0.7914 | Features:  8
+ 5. bundle_behavioral_bundle_2k    | F1: 0.7900 | Features:  2
+ 6. top_8_features_2k              | F1: 0.7870 | Features:  8
+ 7. loo_remove_sentiment_slope_2k  | F1: 0.7842 | Features: 21
+ 8. optimal_21_features_2k         | F1: 0.7798 | Features: 21
+ 9. loo_remove_avg_politeness_2k   | F1: 0.7798 | Features: 21
+10. loo_remove_avg_confusion_2k    | F1: 0.7798 | Features: 21
+
+KEY VALIDATION INSIGHTS:
+------------------------------------------------------------
+• 500-sample text-only baseline: 0.8378
+• 2k-sample text-only baseline: 0.7606
+• Baseline difference: -0.0772
+
+• Best 2k configuration: top_3_features_2k
+• Best 2k F1 score: 0.8043
+• Improvement over 2k baseline: +0.0437

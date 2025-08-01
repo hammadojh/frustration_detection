@@ -1,0 +1,42 @@
+combination,feature_indices,f1_score,precision,recall,num_features,feature_names
+pair_avg_politeness+avg_confusion,"[2, 4]",0.8533333333333334,0.8421052631578947,0.8648648648648649,2,"['avg_politeness', 'avg_confusion']"
+pair_avg_politeness+avg_negation,"[2, 5]",0.8533333333333334,0.8421052631578947,0.8648648648648649,2,"['avg_politeness', 'avg_negation']"
+pair_avg_politeness+avg_turn_length,"[2, 9]",0.8533333333333334,0.8421052631578947,0.8648648648648649,2,"['avg_politeness', 'avg_turn_length']"
+pair_avg_politeness+corrections,"[2, 11]",0.8533333333333334,0.8421052631578947,0.8648648648648649,2,"['avg_politeness', 'corrections']"
+pair_avg_politeness+escalation_requests,"[2, 12]",0.8533333333333334,0.8421052631578947,0.8648648648648649,2,"['avg_politeness', 'escalation_requests']"
+pair_avg_confusion+avg_negation,"[4, 5]",0.8533333333333334,0.8421052631578947,0.8648648648648649,2,"['avg_confusion', 'avg_negation']"
+pair_avg_confusion+avg_turn_length,"[4, 9]",0.8533333333333334,0.8421052631578947,0.8648648648648649,2,"['avg_confusion', 'avg_turn_length']"
+pair_avg_confusion+corrections,"[4, 11]",0.8533333333333334,0.8421052631578947,0.8648648648648649,2,"['avg_confusion', 'corrections']"
+pair_avg_confusion+escalation_requests,"[4, 12]",0.8533333333333334,0.8421052631578947,0.8648648648648649,2,"['avg_confusion', 'escalation_requests']"
+pair_avg_confusion+avg_urgency,"[4, 14]",0.8533333333333334,0.8421052631578947,0.8648648648648649,2,"['avg_confusion', 'avg_urgency']"
+pair_avg_negation+avg_turn_length,"[5, 9]",0.8533333333333334,0.8421052631578947,0.8648648648648649,2,"['avg_negation', 'avg_turn_length']"
+pair_avg_negation+corrections,"[5, 11]",0.8533333333333334,0.8421052631578947,0.8648648648648649,2,"['avg_negation', 'corrections']"
+pair_avg_negation+escalation_requests,"[5, 12]",0.8533333333333334,0.8421052631578947,0.8648648648648649,2,"['avg_negation', 'escalation_requests']"
+pair_avg_negation+avg_urgency,"[5, 14]",0.8533333333333334,0.8421052631578947,0.8648648648648649,2,"['avg_negation', 'avg_urgency']"
+pair_avg_negation+response_clarity,"[5, 19]",0.8533333333333334,0.8421052631578947,0.8648648648648649,2,"['avg_negation', 'response_clarity']"
+pair_avg_turn_length+corrections,"[9, 11]",0.8533333333333334,0.8421052631578947,0.8648648648648649,2,"['avg_turn_length', 'corrections']"
+pair_avg_turn_length+escalation_requests,"[9, 12]",0.8533333333333334,0.8421052631578947,0.8648648648648649,2,"['avg_turn_length', 'escalation_requests']"
+pair_avg_turn_length+avg_urgency,"[9, 14]",0.8533333333333334,0.8421052631578947,0.8648648648648649,2,"['avg_turn_length', 'avg_urgency']"
+pair_avg_turn_length+response_clarity,"[9, 19]",0.8533333333333334,0.8421052631578947,0.8648648648648649,2,"['avg_turn_length', 'response_clarity']"
+pair_corrections+escalation_requests,"[11, 12]",0.8533333333333334,0.8421052631578947,0.8648648648648649,2,"['corrections', 'escalation_requests']"
+top_5_individual,"[2, 4, 5, 9, 11]",0.8461538461538461,0.8048780487804879,0.8918918918918919,5,"['avg_politeness', 'avg_confusion', 'avg_negation', 'avg_turn_length', 'corrections']"
+top_6_individual,"[2, 4, 5, 9, 11, 12]",0.8461538461538461,0.8048780487804879,0.8918918918918919,6,"['avg_politeness', 'avg_confusion', 'avg_negation', 'avg_turn_length', 'corrections', 'escalation_requests']"
+linguistic_core,"[2, 4, 5, 7]",0.8461538461538461,0.8048780487804879,0.8918918918918919,4,"['avg_politeness', 'avg_confusion', 'avg_negation', 'avg_exclamation']"
+mixed_optimal,"[2, 7, 16, 19]",0.8461538461538461,0.8048780487804879,0.8918918918918919,4,"['avg_politeness', 'avg_exclamation', 'task_complexity', 'response_clarity']"
+top_4_individual,"[2, 4, 5, 9]",0.8354430379746834,0.7857142857142857,0.8918918918918919,4,"['avg_politeness', 'avg_confusion', 'avg_negation', 'avg_turn_length']"
+triple_avg_politeness+avg_confusion+avg_negation,"[2, 4, 5]",0.8311688311688312,0.8,0.8648648648648649,3,"['avg_politeness', 'avg_confusion', 'avg_negation']"
+triple_avg_politeness+avg_confusion+avg_turn_length,"[2, 4, 9]",0.8311688311688312,0.8,0.8648648648648649,3,"['avg_politeness', 'avg_confusion', 'avg_turn_length']"
+triple_avg_politeness+avg_confusion+corrections,"[2, 4, 11]",0.8311688311688312,0.8,0.8648648648648649,3,"['avg_politeness', 'avg_confusion', 'corrections']"
+triple_avg_politeness+avg_confusion+escalation_requests,"[2, 4, 12]",0.8311688311688312,0.8,0.8648648648648649,3,"['avg_politeness', 'avg_confusion', 'escalation_requests']"
+single_avg_politeness,[2],0.8108108108108109,0.8108108108108109,0.8108108108108109,1,['avg_politeness']
+single_avg_confusion,[4],0.8108108108108109,0.8108108108108109,0.8108108108108109,1,['avg_confusion']
+single_avg_negation,[5],0.8108108108108109,0.8108108108108109,0.8108108108108109,1,['avg_negation']
+single_avg_turn_length,[9],0.8108108108108109,0.8108108108108109,0.8108108108108109,1,['avg_turn_length']
+single_corrections,[11],0.8108108108108109,0.8108108108108109,0.8108108108108109,1,['corrections']
+single_escalation_requests,[12],0.8108108108108109,0.8108108108108109,0.8108108108108109,1,['escalation_requests']
+single_avg_urgency,[14],0.8108108108108109,0.8108108108108109,0.8108108108108109,1,['avg_urgency']
+single_response_clarity,[19],0.8108108108108109,0.8108108108108109,0.8108108108108109,1,['response_clarity']
+single_response_relevance,[20],0.8108108108108109,0.8108108108108109,0.8108108108108109,1,['response_relevance']
+single_trust_decline,[21],0.8108108108108109,0.8108108108108109,0.8108108108108109,1,['trust_decline']
+single_avg_exclamation,[7],0.8,0.7894736842105263,0.8108108108108109,1,['avg_exclamation']
+single_task_complexity,[16],0.8,0.7894736842105263,0.8108108108108109,1,['task_complexity']

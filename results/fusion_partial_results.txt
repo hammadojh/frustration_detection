@@ -1,0 +1,12 @@
+Phase 3a: Fusion Strategies - Partial Results
+
+Phase 2 Baseline: F1 = 0.8378
+
+Strategy Results:
+1. Late Fusion (Concatenation): F1 = 0.8378 (Δ=+0.0000) ✅ [BASELINE]
+2. Early Fusion (Feature Tokens): F1 = 0.8571 (Δ=+0.0193) ✅ [BEST SO FAR]
+3. Weighted Fusion: [IN PROGRESS - timed out]
+4. Feature Selection Fusion: [PENDING]
+
+Key Finding: Early Fusion with Feature Tokens shows +1.93% improvement!
+This represents the largest improvement we've seen so far in the experiment.

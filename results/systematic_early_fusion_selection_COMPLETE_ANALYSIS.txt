@@ -1,0 +1,472 @@
+================================================================================
+SYSTEMATIC EARLY FUSION FEATURE SELECTION - COMPLETE ANALYSIS
+================================================================================
+Experiment completed in 65.7 minutes
+Total combinations tested: 41
+Target: F1 = 0.8831 (all 22 features)
+Reference: F1 = 0.8571 (linguistic 8 features)
+
+COMPLETE RESULTS (sorted by F1 score):
+--------------------------------------------------------------------------------
+
+ 1. ❌ BELOW BASELINE
+    Combination: pair_avg_politeness+avg_confusion
+    Features: avg_politeness+avg_confusion
+    F1 Score: 0.8533
+    Feature Count: 2
+    vs All Features: -0.0298
+    vs Linguistic: -0.0038
+    Feature Reduction: 90.9%
+    Efficiency: 0.4267 F1/feature
+
+ 2. ❌ BELOW BASELINE
+    Combination: pair_avg_politeness+avg_negation
+    Features: avg_politeness+avg_negation
+    F1 Score: 0.8533
+    Feature Count: 2
+    vs All Features: -0.0298
+    vs Linguistic: -0.0038
+    Feature Reduction: 90.9%
+    Efficiency: 0.4267 F1/feature
+
+ 3. ❌ BELOW BASELINE
+    Combination: pair_avg_politeness+avg_turn_length
+    Features: avg_politeness+avg_turn_length
+    F1 Score: 0.8533
+    Feature Count: 2
+    vs All Features: -0.0298
+    vs Linguistic: -0.0038
+    Feature Reduction: 90.9%
+    Efficiency: 0.4267 F1/feature
+
+ 4. ❌ BELOW BASELINE
+    Combination: pair_avg_politeness+corrections
+    Features: avg_politeness+corrections
+    F1 Score: 0.8533
+    Feature Count: 2
+    vs All Features: -0.0298
+    vs Linguistic: -0.0038
+    Feature Reduction: 90.9%
+    Efficiency: 0.4267 F1/feature
+
+ 5. ❌ BELOW BASELINE
+    Combination: pair_avg_politeness+escalation_requests
+    Features: avg_politeness+escalation_requests
+    F1 Score: 0.8533
+    Feature Count: 2
+    vs All Features: -0.0298
+    vs Linguistic: -0.0038
+    Feature Reduction: 90.9%
+    Efficiency: 0.4267 F1/feature
+
+ 6. ❌ BELOW BASELINE
+    Combination: pair_avg_confusion+avg_negation
+    Features: avg_confusion+avg_negation
+    F1 Score: 0.8533
+    Feature Count: 2
+    vs All Features: -0.0298
+    vs Linguistic: -0.0038
+    Feature Reduction: 90.9%
+    Efficiency: 0.4267 F1/feature
+
+ 7. ❌ BELOW BASELINE
+    Combination: pair_avg_confusion+avg_turn_length
+    Features: avg_confusion+avg_turn_length
+    F1 Score: 0.8533
+    Feature Count: 2
+    vs All Features: -0.0298
+    vs Linguistic: -0.0038
+    Feature Reduction: 90.9%
+    Efficiency: 0.4267 F1/feature
+
+ 8. ❌ BELOW BASELINE
+    Combination: pair_avg_confusion+corrections
+    Features: avg_confusion+corrections
+    F1 Score: 0.8533
+    Feature Count: 2
+    vs All Features: -0.0298
+    vs Linguistic: -0.0038
+    Feature Reduction: 90.9%
+    Efficiency: 0.4267 F1/feature
+
+ 9. ❌ BELOW BASELINE
+    Combination: pair_avg_confusion+escalation_requests
+    Features: avg_confusion+escalation_requests
+    F1 Score: 0.8533
+    Feature Count: 2
+    vs All Features: -0.0298
+    vs Linguistic: -0.0038
+    Feature Reduction: 90.9%
+    Efficiency: 0.4267 F1/feature
+
+10. ❌ BELOW BASELINE
+    Combination: pair_avg_confusion+avg_urgency
+    Features: avg_confusion+avg_urgency
+    F1 Score: 0.8533
+    Feature Count: 2
+    vs All Features: -0.0298
+    vs Linguistic: -0.0038
+    Feature Reduction: 90.9%
+    Efficiency: 0.4267 F1/feature
+
+11. ❌ BELOW BASELINE
+    Combination: pair_avg_negation+avg_turn_length
+    Features: avg_negation+avg_turn_length
+    F1 Score: 0.8533
+    Feature Count: 2
+    vs All Features: -0.0298
+    vs Linguistic: -0.0038
+    Feature Reduction: 90.9%
+    Efficiency: 0.4267 F1/feature
+
+12. ❌ BELOW BASELINE
+    Combination: pair_avg_negation+corrections
+    Features: avg_negation+corrections
+    F1 Score: 0.8533
+    Feature Count: 2
+    vs All Features: -0.0298
+    vs Linguistic: -0.0038
+    Feature Reduction: 90.9%
+    Efficiency: 0.4267 F1/feature
+
+13. ❌ BELOW BASELINE
+    Combination: pair_avg_negation+escalation_requests
+    Features: avg_negation+escalation_requests
+    F1 Score: 0.8533
+    Feature Count: 2
+    vs All Features: -0.0298
+    vs Linguistic: -0.0038
+    Feature Reduction: 90.9%
+    Efficiency: 0.4267 F1/feature
+
+14. ❌ BELOW BASELINE
+    Combination: pair_avg_negation+avg_urgency
+    Features: avg_negation+avg_urgency
+    F1 Score: 0.8533
+    Feature Count: 2
+    vs All Features: -0.0298
+    vs Linguistic: -0.0038
+    Feature Reduction: 90.9%
+    Efficiency: 0.4267 F1/feature
+
+15. ❌ BELOW BASELINE
+    Combination: pair_avg_negation+response_clarity
+    Features: avg_negation+response_clarity
+    F1 Score: 0.8533
+    Feature Count: 2
+    vs All Features: -0.0298
+    vs Linguistic: -0.0038
+    Feature Reduction: 90.9%
+    Efficiency: 0.4267 F1/feature
+
+16. ❌ BELOW BASELINE
+    Combination: pair_avg_turn_length+corrections
+    Features: avg_turn_length+corrections
+    F1 Score: 0.8533
+    Feature Count: 2
+    vs All Features: -0.0298
+    vs Linguistic: -0.0038
+    Feature Reduction: 90.9%
+    Efficiency: 0.4267 F1/feature
+
+17. ❌ BELOW BASELINE
+    Combination: pair_avg_turn_length+escalation_requests
+    Features: avg_turn_length+escalation_requests
+    F1 Score: 0.8533
+    Feature Count: 2
+    vs All Features: -0.0298
+    vs Linguistic: -0.0038
+    Feature Reduction: 90.9%
+    Efficiency: 0.4267 F1/feature
+
+18. ❌ BELOW BASELINE
+    Combination: pair_avg_turn_length+avg_urgency
+    Features: avg_turn_length+avg_urgency
+    F1 Score: 0.8533
+    Feature Count: 2
+    vs All Features: -0.0298
+    vs Linguistic: -0.0038
+    Feature Reduction: 90.9%
+    Efficiency: 0.4267 F1/feature
+
+19. ❌ BELOW BASELINE
+    Combination: pair_avg_turn_length+response_clarity
+    Features: avg_turn_length+response_clarity
+    F1 Score: 0.8533
+    Feature Count: 2
+    vs All Features: -0.0298
+    vs Linguistic: -0.0038
+    Feature Reduction: 90.9%
+    Efficiency: 0.4267 F1/feature
+
+20. ❌ BELOW BASELINE
+    Combination: pair_corrections+escalation_requests
+    Features: corrections+escalation_requests
+    F1 Score: 0.8533
+    Feature Count: 2
+    vs All Features: -0.0298
+    vs Linguistic: -0.0038
+    Feature Reduction: 90.9%
+    Efficiency: 0.4267 F1/feature
+
+21. ❌ BELOW BASELINE
+    Combination: top_5_individual
+    Features: avg_politeness+avg_confusion+avg_negation+avg_turn_length+corrections
+    F1 Score: 0.8462
+    Feature Count: 5
+    vs All Features: -0.0369
+    vs Linguistic: -0.0109
+    Feature Reduction: 77.3%
+    Efficiency: 0.1692 F1/feature
+
+22. ❌ BELOW BASELINE
+    Combination: top_6_individual
+    Features: avg_politeness+avg_confusion+avg_negation+avg_turn_length+corrections+escalation_requests
+    F1 Score: 0.8462
+    Feature Count: 6
+    vs All Features: -0.0369
+    vs Linguistic: -0.0109
+    Feature Reduction: 72.7%
+    Efficiency: 0.1410 F1/feature
+
+23. ❌ BELOW BASELINE
+    Combination: linguistic_core
+    Features: avg_politeness+avg_confusion+avg_negation+avg_exclamation
+    F1 Score: 0.8462
+    Feature Count: 4
+    vs All Features: -0.0369
+    vs Linguistic: -0.0109
+    Feature Reduction: 81.8%
+    Efficiency: 0.2115 F1/feature
+
+24. ❌ BELOW BASELINE
+    Combination: mixed_optimal
+    Features: avg_politeness+avg_exclamation+task_complexity+response_clarity
+    F1 Score: 0.8462
+    Feature Count: 4
+    vs All Features: -0.0369
+    vs Linguistic: -0.0109
+    Feature Reduction: 81.8%
+    Efficiency: 0.2115 F1/feature
+
+25. ❌ BELOW BASELINE
+    Combination: top_4_individual
+    Features: avg_politeness+avg_confusion+avg_negation+avg_turn_length
+    F1 Score: 0.8354
+    Feature Count: 4
+    vs All Features: -0.0477
+    vs Linguistic: -0.0217
+    Feature Reduction: 81.8%
+    Efficiency: 0.2089 F1/feature
+
+26. ❌ BELOW BASELINE
+    Combination: triple_avg_politeness+avg_confusion+avg_negation
+    Features: avg_politeness+avg_confusion+avg_negation
+    F1 Score: 0.8312
+    Feature Count: 3
+    vs All Features: -0.0519
+    vs Linguistic: -0.0259
+    Feature Reduction: 86.4%
+    Efficiency: 0.2771 F1/feature
+
+27. ❌ BELOW BASELINE
+    Combination: triple_avg_politeness+avg_confusion+avg_turn_length
+    Features: avg_politeness+avg_confusion+avg_turn_length
+    F1 Score: 0.8312
+    Feature Count: 3
+    vs All Features: -0.0519
+    vs Linguistic: -0.0259
+    Feature Reduction: 86.4%
+    Efficiency: 0.2771 F1/feature
+
+28. ❌ BELOW BASELINE
+    Combination: triple_avg_politeness+avg_confusion+corrections
+    Features: avg_politeness+avg_confusion+corrections
+    F1 Score: 0.8312
+    Feature Count: 3
+    vs All Features: -0.0519
+    vs Linguistic: -0.0259
+    Feature Reduction: 86.4%
+    Efficiency: 0.2771 F1/feature
+
+29. ❌ BELOW BASELINE
+    Combination: triple_avg_politeness+avg_confusion+escalation_requests
+    Features: avg_politeness+avg_confusion+escalation_requests
+    F1 Score: 0.8312
+    Feature Count: 3
+    vs All Features: -0.0519
+    vs Linguistic: -0.0259
+    Feature Reduction: 86.4%
+    Efficiency: 0.2771 F1/feature
+
+30. ❌ BELOW BASELINE
+    Combination: single_avg_politeness
+    Features: avg_politeness
+    F1 Score: 0.8108
+    Feature Count: 1
+    vs All Features: -0.0723
+    vs Linguistic: -0.0463
+    Feature Reduction: 95.5%
+    Efficiency: 0.8108 F1/feature
+
+31. ❌ BELOW BASELINE
+    Combination: single_avg_confusion
+    Features: avg_confusion
+    F1 Score: 0.8108
+    Feature Count: 1
+    vs All Features: -0.0723
+    vs Linguistic: -0.0463
+    Feature Reduction: 95.5%
+    Efficiency: 0.8108 F1/feature
+
+32. ❌ BELOW BASELINE
+    Combination: single_avg_negation
+    Features: avg_negation
+    F1 Score: 0.8108
+    Feature Count: 1
+    vs All Features: -0.0723
+    vs Linguistic: -0.0463
+    Feature Reduction: 95.5%
+    Efficiency: 0.8108 F1/feature
+
+33. ❌ BELOW BASELINE
+    Combination: single_avg_turn_length
+    Features: avg_turn_length
+    F1 Score: 0.8108
+    Feature Count: 1
+    vs All Features: -0.0723
+    vs Linguistic: -0.0463
+    Feature Reduction: 95.5%
+    Efficiency: 0.8108 F1/feature
+
+34. ❌ BELOW BASELINE
+    Combination: single_corrections
+    Features: corrections
+    F1 Score: 0.8108
+    Feature Count: 1
+    vs All Features: -0.0723
+    vs Linguistic: -0.0463
+    Feature Reduction: 95.5%
+    Efficiency: 0.8108 F1/feature
+
+35. ❌ BELOW BASELINE
+    Combination: single_escalation_requests
+    Features: escalation_requests
+    F1 Score: 0.8108
+    Feature Count: 1
+    vs All Features: -0.0723
+    vs Linguistic: -0.0463
+    Feature Reduction: 95.5%
+    Efficiency: 0.8108 F1/feature
+
+36. ❌ BELOW BASELINE
+    Combination: single_avg_urgency
+    Features: avg_urgency
+    F1 Score: 0.8108
+    Feature Count: 1
+    vs All Features: -0.0723
+    vs Linguistic: -0.0463
+    Feature Reduction: 95.5%
+    Efficiency: 0.8108 F1/feature
+
+37. ❌ BELOW BASELINE
+    Combination: single_response_clarity
+    Features: response_clarity
+    F1 Score: 0.8108
+    Feature Count: 1
+    vs All Features: -0.0723
+    vs Linguistic: -0.0463
+    Feature Reduction: 95.5%
+    Efficiency: 0.8108 F1/feature
+
+38. ❌ BELOW BASELINE
+    Combination: single_response_relevance
+    Features: response_relevance
+    F1 Score: 0.8108
+    Feature Count: 1
+    vs All Features: -0.0723
+    vs Linguistic: -0.0463
+    Feature Reduction: 95.5%
+    Efficiency: 0.8108 F1/feature
+
+39. ❌ BELOW BASELINE
+    Combination: single_trust_decline
+    Features: trust_decline
+    F1 Score: 0.8108
+    Feature Count: 1
+    vs All Features: -0.0723
+    vs Linguistic: -0.0463
+    Feature Reduction: 95.5%
+    Efficiency: 0.8108 F1/feature
+
+40. ❌ BELOW BASELINE
+    Combination: single_avg_exclamation
+    Features: avg_exclamation
+    F1 Score: 0.8000
+    Feature Count: 1
+    vs All Features: -0.0831
+    vs Linguistic: -0.0571
+    Feature Reduction: 95.5%
+    Efficiency: 0.8000 F1/feature
+
+41. ❌ BELOW BASELINE
+    Combination: single_task_complexity
+    Features: task_complexity
+    F1 Score: 0.8000
+    Feature Count: 1
+    vs All Features: -0.0831
+    vs Linguistic: -0.0571
+    Feature Reduction: 95.5%
+    Efficiency: 0.8000 F1/feature
+
+================================================================================
+ANALYSIS BY FEATURE COUNT
+================================================================================
+
+1 FEATURES:
+  Best: single_avg_politeness (F1=0.8108)
+  Features: avg_politeness
+  Improvement vs all: -0.0723
+  Other combinations tested: 11
+
+2 FEATURES:
+  Best: pair_avg_politeness+avg_confusion (F1=0.8533)
+  Features: avg_politeness+avg_confusion
+  Improvement vs all: -0.0298
+  Other combinations tested: 19
+
+3 FEATURES:
+  Best: triple_avg_politeness+avg_confusion+avg_negation (F1=0.8312)
+  Features: avg_politeness+avg_confusion+avg_negation
+  Improvement vs all: -0.0519
+  Other combinations tested: 3
+
+4 FEATURES:
+  Best: linguistic_core (F1=0.8462)
+  Features: avg_politeness+avg_confusion+avg_negation+avg_exclamation
+  Improvement vs all: -0.0369
+  Other combinations tested: 2
+
+5 FEATURES:
+  Best: top_5_individual (F1=0.8462)
+  Features: avg_politeness+avg_confusion+avg_negation+avg_turn_length+corrections
+  Improvement vs all: -0.0369
+
+6 FEATURES:
+  Best: top_6_individual (F1=0.8462)
+  Features: avg_politeness+avg_confusion+avg_negation+avg_turn_length+corrections+escalation_requests
+  Improvement vs all: -0.0369
+
+================================================================================
+FINAL ANSWER
+================================================================================
+QUESTION: Can we achieve F1≥0.88 with fewer features using early fusion?
+
+📊 Best achievable: 2 features → F1=0.8533
+   Best combination: pair_avg_politeness+avg_confusion
+   Features: avg_politeness+avg_confusion
+
+MOST EFFICIENT COMBINATION:
+  single_avg_politeness: 0.8108 F1/feature
+  Features: avg_politeness
+  F1: 0.8108 with 1 features

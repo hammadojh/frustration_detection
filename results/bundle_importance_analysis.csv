@@ -1,0 +1,7 @@
+bundle,MI_mean,MI_max,MI_sum,F_mean,F_max
+linguistic_bundle,0.0264,0.0632,0.1055,10.5652,34.8092
+contextual_bundle,0.0204,0.0408,0.0408,1.9661,3.2209
+system_bundle,0.0136,0.0197,0.0271,3.724,4.2271
+dialogue_bundle,0.0071,0.0143,0.0143,5.4927,9.1213
+user_model,0.0035,0.0035,0.0035,1.0469,1.0469
+behavioral_bundle,0.0,0.0,0.0,3.0981,3.0981

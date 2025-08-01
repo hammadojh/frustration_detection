@@ -1,0 +1,2 @@
+experiment,num_features,test_f1,test_precision,test_recall,test_accuracy,train_f1,train_accuracy,runtime_minutes,improvement_vs_old_22,improvement_vs_12_nonconstant
+all_22_features_updated,22,0.8831168831168831,0.85,0.918918918918919,0.88,0.9497206703910615,0.9485714285714286,0.7042579770088195,1.688311688308186e-05,0.02231688311688307
