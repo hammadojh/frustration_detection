@@ -42,6 +42,12 @@ __pycache__/
 # OS files
 .DS_Store
 Thumbs.db
+*.tmp
+
+# Documentation artifacts
+.obsidian/
+*.draft
+*.backup
 
 # Environment files
 .env
