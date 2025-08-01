@@ -11,6 +11,7 @@ This repository contains a systematic study of frustration detection combining *
 - **📚 Literature Review**: 50+ academic papers analyzed
 - **🔧 Feature Engineering**: 22 features across 7 conceptual bundles
 - **🧪 Comprehensive Study**: Individual + bundle + ablation experiments
+- **📋 Research Datasets**: Complete feature-literature mapping with 151 citations
 
 ## 🏗️ Repository Structure
 
@@ -20,7 +21,10 @@ frustration_researcher/
 │   ├── phase1_baseline/      # RoBERTa baseline (F1: 0.8108)
 │   ├── phase2_features/      # Feature engineering implementation
 │   └── phase3_advanced/      # Ablation studies and optimization
-├── 📁 data/                  # EmoWOZ dataset subsets
+├── 📁 data/                  # Research datasets and experiment data
+│   ├── research_datasets/    # 📊 Core research data (features, papers, mappings)
+│   ├── subset_processed.json # EmoWOZ experiment subset (500 examples)
+│   └── subset_*.json        # Additional dataset variants
 ├── 📁 results/               # Experiment results and analysis
 ├── 📁 docs/                  # 📖 Organized documentation
 │   ├── methodology/          # Research methods and implementation
@@ -28,8 +32,7 @@ frustration_researcher/
 │   ├── papers/              # Literature review and synthesis
 │   ├── project/             # Project management and overview
 │   └── README.md            # Documentation navigation guide
-├── 📁 downloaded_papers/     # Academic papers (50+ PDFs)
-└── 📊 *.csv                  # Feature definitions and mappings
+└── 📁 downloaded_papers/     # Academic papers (50+ PDFs)
 ```
 
 ## ⚡ Quick Start
@@ -109,6 +112,17 @@ cat experiments/phase2_features/feature_modeling_report.md
 - **3 features**: F1 = 0.85+ (efficient)
 - **8 features**: F1 = 0.88+ (balanced)
 - **22 features**: F1 = 0.8831 (maximum)
+
+## 📊 Core Research Datasets
+
+The **[data/research_datasets/](data/research_datasets/)** folder contains comprehensive research data linking academic literature to implementable features:
+
+- **[features.csv](data/research_datasets/features.csv)** - 45 features with implementation guidance and dataset applicability
+- **[paper_features.csv](data/research_datasets/paper_features.csv)** - 57 academic papers with detailed analysis and results
+- **[feature_papers.csv](data/research_datasets/feature_papers.csv)** - 151 feature-to-paper mappings with citations
+- **[BERT_Frustration_Feature_Justification.csv](data/research_datasets/BERT_Frustration_Feature_Justification.csv)** - Expert analysis of which features help BERT
+
+*See [data/research_datasets/README.md](data/research_datasets/README.md) for detailed documentation.*
 
 ## 📚 Documentation Guide
 

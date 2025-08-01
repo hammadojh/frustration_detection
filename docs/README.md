@@ -17,8 +17,8 @@ Welcome to the Frustration Detection Research documentation. This folder contain
 
 ### 📚 For Academic Research
 - **[Papers Summary](papers/papers_summary.md)** - Synthesis of 50+ academic papers
-- **[Feature Literature Mapping](../features.csv)** - Features mapped to source papers
-- **[Downloaded Papers](../downloaded_papers/)** - Full academic paper collection
+- **[Research Datasets](../data/research_datasets/)** - Feature-literature mappings and analysis
+- **[Downloaded Papers](../downloaded_papers/)** - Full academic paper collection (50+ PDFs)
 
 ### 📋 For Project Management
 - **[Checkpoints](project/checkpoints.md)** - Detailed experiment progress log
@@ -30,13 +30,13 @@ Welcome to the Frustration Detection Research documentation. This folder contain
 → Start with **[Feature Modeling Report](methodology/feature_modeling_report.md)**
 
 ### "I want to reproduce the experiments"  
-→ See **[ML Experiment Plan](methodology/ml_experiment_plan.md)** and **[Ablation Study Guide](experiments/ablation_study_guide.md)**
+→ See **[Experimental Methodology](methodology/experimental_methodology.md)** and **[Ablation Study Guide](experiments/ablation_study_guide.md)**
 
 ### "I want to understand the academic background"
-→ Read **[Papers Summary](papers/papers_summary.md)** and browse **[Downloaded Papers](../downloaded_papers/)**
+→ Read **[Papers Summary](papers/papers_summary.md)** and explore **[Research Datasets](../data/research_datasets/)**
 
 ### "I want to extend this research"
-→ Study **[Feature Implementation](methodology/feature_modeling_report.md)** and **[Experiment Framework](methodology/ml_training.md)**
+→ Study **[Feature Implementation](methodology/feature_modeling_report.md)** and **[Experimental Methodology](methodology/experimental_methodology.md)**
 
 ### "I want to see the current status"
 → Check **[Checkpoints](project/checkpoints.md)** and **[Results](../results/)**
